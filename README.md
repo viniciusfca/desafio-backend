@@ -19,6 +19,7 @@ Este desafio consiste em criar uma aplicação backend em Java que realiza as se
 10. Utilizar um banco de dados em memória ou qualquer outro banco relacional subindo via docker-compose.
 11. Criar uma branch a partir desse projeto e ao finalizar submeter um PR para main onde será avaliado.
 12. O arquivo para extrair o dados está na raiz desse projeto.
+13. Não é obrigatório mas será um diferencial, subir o projeto em algum cloud provider e expor dns pra acessar as rotas.
 
 ## Requisitos
 
