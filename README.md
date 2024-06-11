@@ -68,5 +68,5 @@ O README deve conter instruções para:
 
 ### Docker
 
-Incluir um `Dockerfile` para a aplicação e um `docker-compose.yml` (opcional) se necessário para subir a aplicação e o banco de dados em memória.
+Incluir um `Dockerfile` para a aplicação e um `docker-compose.yml` (opcional) se necessário para subir a aplicação e o banco de dados caso nao utilizem banco em memória.
 
