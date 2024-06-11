@@ -27,13 +27,13 @@ Este desafio consiste em criar uma aplicação backend em Java que realiza as se
   - `id` (UUID)
   - `nome` (String)
   - `cpf` (String)
+  - `endereco_id` (UUID)
   - `data_nascimento` (LocalDate)
   - `email` (String)
   - `is_idoso` (Boolean)
 
 - **Endereço**
   - `id` (UUID)
-  - `cliente_id` (UUID)
   - `logradouro` (String)
   - `numero` (String)
   - `complemento` (String)
