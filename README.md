@@ -13,11 +13,12 @@ Este desafio consiste em criar uma aplicação backend em Java que realiza as se
 4. Adicionar uma coluna adicional na tabela de clientes para identificar se o cliente é idoso (idade maior que 60 anos).
 5. Validar o CEP dos endereços utilizando uma API de CEP.
 6. Incluir testes unitários.
-7. Fornecer um README explicando como executar a aplicação e os testes.
-8. Incluir um arquivo Docker para subir a aplicação.
-9. Utilizar um banco de dados em memória ou qualquer outro banco relacional subindo via docker-compose.
-10. Criar uma branch a partir desse projeto e ao finalizar submeter um PR para main onde será avaliado.
-11. O arquivo para extrair o dados está na raiz desse projeto.
+7. Incluir algum time de autenticação nas rotas.
+8. Fornecer um README explicando como executar a aplicação e os testes.
+9. Incluir um arquivo Docker para subir a aplicação.
+10. Utilizar um banco de dados em memória ou qualquer outro banco relacional subindo via docker-compose.
+11. Criar uma branch a partir desse projeto e ao finalizar submeter um PR para main onde será avaliado.
+12. O arquivo para extrair o dados está na raiz desse projeto.
 
 ## Requisitos
 
