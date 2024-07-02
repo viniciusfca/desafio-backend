@@ -76,15 +76,22 @@ Incluir um `Dockerfile` para subir a aplicação.
 
 ## 1. **Executar a aplicação**
 
+- Entrando na pasta do projeto
 ```bash
     cd clientes
+```
 
+- Compilando e empacotando
+```bash
     mvn clean package
-    
+```
+
+- Executando
+```bash
     java -jar target/clientes-0.0.1-SNAPSHOT.jar
 ```
 
-- obs: É preciso estar com a porta 8080 livre
+- obs: É preciso estar com a porta 8080 disponível
 
 ## 2. **Executar os testes**
 
@@ -215,12 +222,18 @@ Incluir um `Dockerfile` para subir a aplicação.
 
 ## 3. **Executar a aplicação utilizando Docker**
 
+- Entrando na pasta do projeto
 ```bash
     cd clientes
-    
+```
+- Contruindo a imagem
+```bash
     docker build -t api-clientes .
+```
 
+- Executando um container
+```bash
     docker run --name api-clientes-container -p 8080:8080 api-clientes
 ```
 
-- obs: É preciso estar com a porta 8080 livre
+- obs: É preciso estar com a porta 8080 disponível
