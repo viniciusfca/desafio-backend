@@ -1,0 +1,1001 @@
+nome,cpf,data_nascimento,email,logradouro,numero,complemento,bairro,cidade,estado,cep
+Maria Sophia da Luz,304.862.795-29,1930-06-18,ecampos@nunes.com,Rodovia Agatha Sales,96,,Jatobá,da Costa,PI,24101284
+Sr. Gustavo Henrique Carvalho,315.624.987-46,1947-06-14,fcastro@cunha.com,Rua Correia,3,,Miramar,Rocha,MG,41086373
+Luiz Henrique da Mata,409.253.167-25,1936-11-26,yurilopes@cardoso.com,Vereda Benício Ribeiro,65,,Milionario,Silveira,RO,45224-394
+Ana Lívia Cardoso,348.706.219-40,1949-02-11,erickpires@viana.com,Recanto da Rocha,56,,São João,Fogaça do Amparo,ES,05865-904
+Manuela Duarte,063.429.157-25,1990-07-20,silvaotavio@da.org,Trecho de Souza,10,,Jardim América,Gomes dos Dourados,MT,48639592
+Gabriela Viana,138.409.675-20,1990-03-12,da-cunhavinicius@gmail.com,Morro Daniela Campos,563,,São José,Araújo da Praia,RO,33544-018
+Ana Luiza Fogaça,870.359.642-74,1931-08-09,jda-rocha@da.br,Rodovia Felipe Farias,70,,Palmares,Jesus Grande,MT,85956-059
+Sr. Rodrigo Viana,263.758.901-95,1997-09-15,danielrezende@ig.com.br,Lagoa de Castro,41,,Comiteco,Costa,MS,06557-014
+Bryan Alves,284.360.751-53,1974-05-07,joao-guilherme61@yahoo.com.br,Sítio Moreira,90,,Vila Independencia 1ª Seção,Mendes,DF,08024-792
+Raul Costa,096.824.751-20,1969-02-04,joao-miguelcastro@ig.com.br,Morro Jesus,12,,Alto Das Antenas,Costa,MT,72145-752
+Cauê da Mata,109.873.654-01,1955-11-27,enzo-gabriel74@uol.com.br,Ladeira de Melo,7,,Monte São José,Cunha do Sul,BA,62160-697
+Matheus Nunes,984.352.176-55,2007-01-21,luiz-miguel71@bol.com.br,Estação Davi Lucca da Paz,67,,Castelo,da Cruz,DF,37773-487
+Gustavo da Costa,219.865.740-67,1982-05-15,murilo81@mendes.org,Sítio Vieira,2,,Floramar,Mendes do Norte,PA,885308
+Laura Moura,217.530.684-44,1998-08-15,costelaemanuel@gmail.com,Chácara Costela,6,,Indaiá,Cardoso do Oeste,RR,41658-778
+Dra. Mariane Rodrigues,095.718.643-66,1946-11-11,pedro75@ig.com.br,Área de Rocha,21,,Vila Betânia,Santos Alegre,PE,18986706
+Fernando Dias,618.432.907-31,1953-09-26,bruna49@bol.com.br,Distrito da Cruz,49,,Vila Cloris,Rodrigues Paulista,PB,47238-286
+Helena Moura,064.731.825-35,1951-02-11,joao-felipefernandes@hotmail.com,Alameda Anthony Silveira,33,,Novo Ouro Preto,Correia do Oeste,GO,99579-058
+Luiz Henrique Vieira,315.046.897-39,1942-02-10,luiz-felipenunes@nogueira.com,Favela Gabriela Castro,4,,Santa Helena,Barbosa,SC,76456392
+Bianca Jesus,409.871.265-20,2009-01-13,marcelada-rosa@campos.com,Conjunto de Moreira,56,,Caetano Furquim,Farias,MT,20460500
+João Pedro Nogueira,305.846.719-20,1956-09-04,bryanpereira@sales.br,Esplanada Helena Aragão,509,,Boa União 1ª Seção,Dias,DF,55657551
+Sra. Sophia Moura,748.951.236-00,1933-08-10,ecardoso@ig.com.br,Praia Thomas Souza,686,,Lagoinha Leblon,Santos,SP,13628-794
+Catarina Moreira,812.739.406-87,1954-06-12,nicolemelo@yahoo.com.br,Via Maitê Nogueira,2,,Santana Do Cafezal,Moreira da Prata,AC,21977519
+Raquel da Rosa,036.142.985-15,1968-10-09,hda-costa@da.br,Sítio Farias,1,,Ademar Maldonado,Cavalcanti da Praia,RN,74288758
+Miguel Melo,873.402.169-87,2009-04-03,yjesus@ig.com.br,Estrada Luiz Felipe Santos,951,,São Jorge 3ª Seção,Nascimento,PR,48008-692
+Samuel Barros,509.813.427-79,1986-09-04,da-costalorenzo@pereira.org,Vale Carlos Eduardo Barbosa,7,,Vila São Paulo,Aragão Grande,PB,33924277
+Lucca Campos,280.549.637-00,1952-06-25,carlos-eduardo61@uol.com.br,Viaduto da Conceição,11,,Inconfidência,Teixeira,SE,88768525
+Dra. Vitória Cunha,641.397.802-31,1977-10-09,salesnicolas@bol.com.br,Pátio de da Cunha,5,,Dom Cabral,Cavalcanti,BA,46249399
+Sr. Anthony Lopes,264.370.519-06,1952-11-19,cda-mata@bol.com.br,Alameda Marcos Vinicius Rodrigues,46,,São Vicente,Rocha,PA,16476-511
+Sabrina Barros,124.759.380-05,1969-05-28,alice54@uol.com.br,Praça de Rocha,778,,Tupi A,Almeida,AC,13421-579
+Isabel Aragão,791.562.408-30,1949-12-21,fariasjoao-lucas@nunes.net,Loteamento Heloísa Fogaça,32,,Trevo,Almeida,DF,60489-265
+Heloísa Moura,384.759.261-00,1966-11-28,cardosoisabelly@rodrigues.net,Avenida Levi Aragão,12,,São Gabriel,Castro,CE,86661-731
+Thiago Silva,120.836.754-44,1966-05-29,esther13@nascimento.com,Passarela Melo,35,,Tupi B,Martins,RN,04613-412
+Melissa Oliveira,629.481.073-69,1968-03-04,xcavalcanti@rezende.com,Condomínio Laís Lima,87,,Vila Bandeirantes,Silva das Pedras,SC,60607876
+Agatha Jesus,695.437.201-34,1943-12-23,kamillyrodrigues@ig.com.br,Largo de Souza,94,,Minaslandia,Costa,CE,25346783
+Ana Lívia Ferreira,509.841.723-60,1971-10-23,stephany07@ig.com.br,Morro de Ribeiro,23,,Confisco,Cardoso do Amparo,RR,1893922
+Isaac Moreira,925.476.083-83,1988-09-15,carvalhojoao-pedro@viana.br,Praça Mirella Monteiro,142,,Vila Da Ária,Novaes,PE,43510-736
+Dra. Stephany da Paz,085.214.396-60,1973-03-14,davi-lucas20@melo.org,Alameda Davi Luiz Santos,31,,Marieta 2ª Seção,Barbosa de Novaes,TO,72133460
+Ana Júlia da Mata,163.508.724-44,1947-05-16,helena44@hotmail.com,Loteamento de Monteiro,29,,Madri,Moreira,MG,63851645
+Maria Clara Barbosa,263.874.019-50,1956-10-25,frocha@bol.com.br,Residencial de Fogaça,952,,Alto Vera Cruz,Santos,SP,58290614
+Rafaela Moura,748.621.590-01,1959-08-16,rezenderebeca@pires.com,Praça Porto,53,,São José,Viana do Oeste,MG,95166-082
+Isis Costela,632.540.918-33,1970-02-24,xcorreia@hotmail.com,Favela de Costela,9,,Boa União 1ª Seção,Pinto,RS,60306610
+Sr. Enzo da Luz,482.391.560-70,1990-12-21,melissaviana@da.br,Trevo Beatriz Barbosa,29,,São Francisco Das Chagas,Moura,RS,32987946
+Leandro Rocha,782.690.413-78,2007-07-04,castroalexandre@ferreira.br,Estação de Vieira,792,,Baleia,Almeida de Melo,TO,34084412
+Dr. Nicolas Peixoto,619.047.385-75,1973-10-23,stephany64@yahoo.com.br,Quadra de Oliveira,27,,Alpes,Pereira do Galho,SP,58580-223
+Nina Moreira,398.017.426-31,1949-08-28,luigicampos@bol.com.br,Viela da Cunha,6,,Santo Antônio,Barros da Serra,RN,45121785
+Amanda Oliveira,897.543.162-28,1943-10-24,luigi23@cavalcanti.br,Travessa Viana,502,,Miramar,Lima do Amparo,AP,12936-222
+Dr. Davi Lucca da Mota,981.675.203-40,1999-12-26,scorreia@silva.com,Praça Melo,7,,São Cristóvão,da Conceição de Goiás,MT,27011-509
+Elisa Duarte,072.984.613-03,1938-07-30,joao-lucascastro@gmail.com,Fazenda das Neves,26,,Maravilha,Lima do Amparo,TO,66919-334
+Dr. Bernardo da Paz,245.618.937-09,2008-12-02,luiz-felipe82@castro.net,Condomínio Ana Lívia Costela,91,,Conjunto Califórnia I,Souza Grande,RR,21096-149
+Sr. Breno Martins,980.634.215-15,1937-08-23,lais02@martins.net,Conjunto Erick Santos,2,,Alto Vera Cruz,Vieira,RJ,70810-405
+Bianca Fogaça,513.627.049-70,1968-07-01,rporto@uol.com.br,Estação de Nascimento,907,,Vila Madre Gertrudes 2ª Seção,Jesus de Vieira,DF,88998-072
+Augusto Lima,908.274.351-50,1956-04-23,manuelacardoso@cardoso.net,Pátio de Gomes,36,,Vale Do Jatoba,Barbosa do Campo,CE,36951520
+Dra. Laura Peixoto,408.795.263-00,1994-12-14,lorenzo61@yahoo.com.br,Sítio Catarina Rocha,68,,Suzana,Ramos de Alves,SE,40544-310
+Catarina Viana,146.892.735-37,1987-09-08,nteixeira@da.br,Conjunto Guilherme da Rocha,209,,Vila Santa Monica 2ª Seção,Souza,MA,54919669
+Lívia Dias,192.783.460-04,1935-01-17,nathanlopes@lopes.br,Rodovia de Martins,16,,Milionario,Lima,RS,33205-442
+Emanuel Moura,564.921.803-05,1962-03-10,yasminda-mata@da.net,Rodovia de Nogueira,763,,Conjunto Celso Machado,Silveira de Gomes,SP,35851781
+João Vitor Monteiro,065.238.497-83,2001-12-16,camilaferreira@bol.com.br,Núcleo de Barbosa,7,,Cardoso,da Costa da Prata,RS,27439816
+Lucca Viana,703.984.561-00,2009-12-28,kevinviana@ig.com.br,Viela Theo Mendes,15,,Belmonte,Pires da Prata,PR,81598358
+Pedro Miguel Araújo,580.297.146-02,1947-12-10,freitasheitor@yahoo.com.br,Lagoa da Luz,97,,São João,Sales de Mendes,AM,70588998
+Miguel Teixeira,693.745.218-73,1955-04-30,moraesjulia@da.br,Aeroporto Thiago da Cunha,59,,Vila Ecológica,Lopes Paulista,TO,10265744
+João Felipe Correia,382.796.145-91,1987-04-14,goncalvesluna@fogaca.com,Distrito Bianca Martins,680,,Vila Fumec,da Cruz,RO,61451123
+Lucas Gabriel Rezende,012.846.359-70,2007-05-09,bferreira@da.br,Pátio Diego Dias,46,,Prado,Ferreira Verde,ES,58924-949
+André Caldeira,458.209.613-15,1974-08-15,aragaofernanda@oliveira.com,Vereda Nogueira,5,,Monte São José,Monteiro da Serra,GO,92704134
+Gustavo da Mota,319.508.476-75,1949-02-03,fariascaue@bol.com.br,Chácara da Mota,87,,Vila Formosa,da Conceição Alegre,PA,71895773
+Daniela Alves,805.621.394-51,1993-07-07,leonardoda-cruz@dias.net,Praia Arthur Gomes,40,,Mariquinhas,da Mota Paulista,TO,82779-867
+Gustavo da Rosa,957.681.042-67,1967-03-02,henriqueda-costa@da.br,Vale Barbosa,51,,Vila Tirol,Santos do Norte,PA,48293622
+Ana Vitória Araújo,721.960.348-78,1951-08-30,carvalhojuliana@azevedo.org,Praça Ana Laura Cavalcanti,502,,Universitário,Rodrigues,ES,85395-121
+Dra. Alexia da Mota,201.467.859-67,1989-11-13,cavalcantigabriel@uol.com.br,Quadra João Guilherme Rodrigues,58,,Barão Homem De Melo 2ª Seção,Porto,SP,98180716
+Stephany Moreira,618.027.359-68,2004-04-23,juanda-rosa@uol.com.br,Aeroporto Bruna Araújo,39,,Luxemburgo,Nascimento,RJ,2142785
+Isadora Gonçalves,715.349.206-25,1964-08-06,larasantos@bol.com.br,Quadra da Mota,81,,Vila Nova,Sales,GO,00170-003
+Stephany Melo,628.719.504-58,1977-05-18,zalves@uol.com.br,Esplanada Pereira,60,,Dom Silverio,Silva,AC,17332-317
+Rebeca Lima,675.293.408-83,1983-08-13,natalia79@yahoo.com.br,Vale de Melo,83,,Alto Vera Cruz,Caldeira do Campo,MA,82921534
+Luna Barros,029.647.185-20,1999-10-17,luiz-henrique37@nascimento.com,Parque Ian Ferreira,1,,Leticia,Moraes,MT,4679078
+Sra. Julia Novaes,437.160.958-93,1981-04-03,marcela20@yahoo.com.br,Feira Amanda Freitas,14,,Braúnas,Freitas de Farias,RN,72035452
+Noah Ferreira,980.436.127-22,1951-04-11,gustavo-henriquemelo@pereira.br,Feira de Castro,511,,Marieta 3ª Seção,Dias,RS,37240464
+Bernardo da Cruz,581.623.974-00,1957-12-24,eduardo63@porto.com,Jardim de Cardoso,75,,Monte São José,Lima do Campo,SE,6632470
+Isabella Teixeira,938.014.527-60,2003-10-13,rcavalcanti@fernandes.br,Vila Lavínia Freitas,69,,Parque São Pedro,Azevedo de Minas,PB,66758347
+Maria da Mota,864.079.352-29,1930-12-15,rafaela80@uol.com.br,Viaduto Vitor Hugo Gonçalves,19,,Marieta 2ª Seção,Ferreira,AC,82084-191
+Dra. Ana Vieira,539.170.264-06,1989-01-27,da-costanicolas@hotmail.com,Fazenda de Ferreira,31,,Alta Tensão 2ª Seção,Costa,TO,87832-411
+Eduarda Costela,817.352.094-14,1959-02-13,nascimentogabriel@gmail.com,Travessa de Monteiro,12,,Sion,Correia do Campo,PE,33603-437
+Alícia Dias,268.034.517-71,2005-11-02,ipereira@bol.com.br,Aeroporto Luiz Miguel Campos,56,,Cruzeiro,Ribeiro do Amparo,SE,91915-650
+Luiz Miguel Nogueira,498.706.521-58,1976-07-27,valmeida@yahoo.com.br,Viela Miguel Farias,957,,Vila Suzana Segunda Seção,da Costa,TO,02935-110
+Emanuel Ferreira,294.756.103-16,1984-07-28,maria-alice54@farias.com,Viaduto de Cardoso,39,,Dom Bosco,Melo do Amparo,SC,83113313
+Leonardo Cardoso,817.536.902-77,1984-02-09,pietra84@gmail.com,Morro de Cunha,3,,Conjunto Floramar,Alves da Serra,RR,21159097
+Ana Sophia Azevedo,315.764.802-08,1989-03-23,portolaura@yahoo.com.br,Condomínio Emanuella Aragão,5,,Copacabana,Santos,SP,75356683
+Dr. Leonardo Carvalho,618.290.374-04,1969-07-19,esther68@da.com,Viela João Felipe Cavalcanti,59,,Vila Boa Vista,Porto de Vieira,AL,67152-158
+Alícia Ferreira,456.798.032-83,1978-12-08,vda-conceicao@gmail.com,Condomínio Cardoso,93,,Apolonia,Monteiro da Praia,SP,51472136
+Juliana Peixoto,835.619.247-19,1993-03-31,opires@goncalves.com,Setor Juliana Monteiro,83,,Nova Cintra,Moura,TO,45868-298
+Augusto Vieira,135.694.702-61,1988-02-07,ymoreira@castro.net,Passarela Santos,419,,Etelvina Carneiro,Azevedo do Norte,AM,16586785
+Henrique Barbosa,812.497.653-82,1962-01-25,bnascimento@lopes.br,Residencial de Duarte,924,,Vila Coqueiral,Aragão,RO,31619549
+Nina Oliveira,184.657.309-20,1940-12-06,maria-clara01@rezende.com,Quadra Gomes,35,,Barão Homem De Melo 1ª Seção,Freitas,PB,3662666
+Marcelo da Rosa,296.573.140-70,1956-12-14,diogosouza@freitas.br,Viela de Peixoto,2,,Grajaú,Silveira da Prata,CE,83686341
+Dra. Emanuelly Souza,376.124.895-46,1943-07-15,fariascarlos-eduardo@freitas.com,Colônia da Mata,9,,Vera Cruz,Porto,SP,62325718
+Dr. Cauê Araújo,567.032.491-99,1980-08-26,liviaoliveira@barbosa.com,Distrito Lívia Carvalho,19,,Lorena,da Cunha de Nunes,MT,65759191
+Ana Sophia Nunes,168.470.539-84,1967-01-22,sabrina87@bol.com.br,Conjunto de das Neves,31,,Vila São Gabriel,Ribeiro,PR,83401-513
+Davi Lucca Castro,473.521.809-23,1950-03-11,camilacunha@nascimento.org,Pátio de Caldeira,7,,Bacurau,Sales do Galho,GO,66485-096
+Breno Dias,692.704.358-65,1975-04-19,bmendes@sales.net,Vereda Correia,16,,Dom Joaquim,Costela de Gomes,PI,94470237
+Natália Cunha,247.350.189-05,1942-06-15,maria-alicedas-neves@costa.com,Chácara de Peixoto,905,,Vila Inestan,Cavalcanti Paulista,AM,23326-244
+Danilo Ramos,079.136.528-02,1939-08-04,giovannacosta@yahoo.com.br,Estação Vinicius da Rosa,377,,Santana Do Cafezal,da Luz,TO,87007-675
+Isaac Azevedo,184.027.356-90,1973-11-19,barrospietro@novaes.org,Favela Maitê Costela,9,,Cônego Pinheiro 1ª Seção,Barros das Pedras,MS,39606696
+Dra. Maria Clara Cavalcanti,473.258.601-53,1949-02-02,barrosjoao-pedro@gmail.com,Viela Jesus,535,,Vila Nova Cachoeirinha 2ª Seção,Rocha de Cardoso,DF,99599512
+Miguel Azevedo,789.105.324-32,1967-09-19,mariaduarte@ig.com.br,Estrada Murilo Pinto,84,,Vila Madre Gertrudes 1ª Seção,Pinto,PR,09129-265
+Natália Costa,970.583.246-38,1991-06-16,rodriguesana-carolina@uol.com.br,Morro Luana Gonçalves,84,,Santa Rita,Vieira de Moreira,PI,42001921
+Beatriz Gonçalves,261.543.098-05,1945-09-04,pedro96@teixeira.com,Esplanada Laura Barbosa,87,,Coqueiros,Porto,MG,5199075
+Breno Pires,458.709.312-23,1985-02-02,xcarvalho@ramos.com,Área de Gonçalves,42,,Belvedere,Lopes,AM,60342802
+Sabrina Carvalho,736.254.901-61,1934-03-20,wda-conceicao@castro.br,Loteamento Teixeira,63,,Conjunto Celso Machado,Novaes Verde,CE,9852688
+Pietra das Neves,182.965.743-73,1990-11-21,luigi79@ig.com.br,Quadra de Barros,8,,Mineirão,Aragão,ES,60986944
+Ana Laura Mendes,165.798.032-40,1990-01-04,maria-clararamos@yahoo.com.br,Trecho Murilo Duarte,443,,Concórdia,Teixeira,PE,37817-571
+Ana Carolina Nascimento,602.357.849-74,1976-08-29,leticiacaldeira@bol.com.br,Fazenda Laís Lopes,79,,Marajó,Souza,SE,58776714
+Larissa da Cruz,075.418.962-76,1972-09-14,julia97@silveira.br,Alameda de Silva,5,,Aeroporto,da Mata,TO,33796741
+Mariana da Conceição,271.649.053-80,1963-12-20,spires@da.org,Vila Davi Lucca Farias,5,,Vila Nova,Teixeira de Goiás,PI,27410-912
+Isabelly Pereira,057.381.249-79,1975-07-01,davi90@uol.com.br,Conjunto Giovanna Lopes,920,,Petropolis,Monteiro do Oeste,RR,24020493
+Sr. Theo Barros,493.610.725-52,2007-08-16,guilherme42@hotmail.com,Travessa de Nunes,37,,Santo Agostinho,da Mota,SE,31851-946
+Marcela Nascimento,314.608.972-69,1935-06-06,novaesana-julia@bol.com.br,Núcleo Moura,26,,Conjunto Lagoa,Vieira,RO,94317155
+Luana Novaes,046.138.752-26,1964-08-07,moraesjulia@souza.br,Estrada Ribeiro,2,,Alípio De Melo,Moraes,PR,67413434
+Srta. Ana Beatriz Nogueira,234.189.567-00,1995-04-06,oliveirajoao@da.com,Residencial da Conceição,10,,Ernesto Nascimento,da Costa,RR,23129865
+Dra. Maria Vitória Moraes,208.741.563-35,1980-09-27,nogueirajoao-felipe@martins.net,Feira Ferreira,95,,Nova Cintra,da Conceição,BA,57054-865
+Leandro Vieira,301.985.274-97,1968-06-22,da-cunhajuliana@uol.com.br,Área Rafaela da Luz,16,,Estrela,Costela,RR,71703918
+Lucas Gabriel Cunha,425.019.876-67,1976-11-06,monteirovicente@bol.com.br,Favela Alice da Mota,52,,Morro Dos Macacos,Aragão,GO,31031-420
+Pedro da Mata,843.910.256-98,1933-03-02,olivia46@da.net,Alameda Sophia Fogaça,51,,Vila Tirol,Ferreira da Prata,PR,31579-455
+Marcela Pires,583.470.961-39,2009-05-27,daniela65@gmail.com,Praia Paulo Novaes,5,,Monte São José,da Mota,PE,70889142
+Rafael Oliveira,457.816.903-01,1954-02-11,maria-vitoria20@bol.com.br,Aeroporto de Dias,62,,Vila Canto Do Sabiá,Dias de Monteiro,PB,45626463
+Mariane Martins,675.314.892-28,1942-03-11,osilva@gmail.com,Área Gonçalves,42,,Vila Nova Cachoeirinha 1ª Seção,Freitas de Goiás,PI,38059491
+Henrique Ribeiro,925.407.168-49,1950-04-01,aragaoolivia@hotmail.com,Trecho Amanda Nascimento,79,,Guarani,Carvalho das Pedras,RS,88956893
+Leonardo Moraes,519.387.042-23,2008-09-02,da-costadaniela@bol.com.br,Parque Bárbara da Rosa,84,,Padre Eustáquio,Fogaça,CE,90596209
+João Vitor Cavalcanti,198.542.376-64,2007-05-19,fogacamiguel@ferreira.com,Sítio Lucas Gabriel Barbosa,858,,Buritis,Caldeira da Mata,RS,07066-904
+Ana Beatriz Dias,280.471.965-02,1997-05-30,carvalhoana-clara@da.com,Praça Lorena das Neves,84,,Floramar,da Mata,MA,45726790
+Mariane Vieira,417.295.083-32,2004-04-27,arthurnascimento@yahoo.com.br,Campo de Jesus,6,,Santa Maria,Caldeira do Galho,DF,85877684
+Luna Nogueira,071.634.592-70,1990-07-12,mariana31@almeida.org,Morro Gustavo Henrique Fogaça,2,,Dom Silverio,Dias do Amparo,RS,17006129
+Sra. Maria Sophia Campos,251.643.078-71,1995-06-08,ferreiralucas@gmail.com,Sítio de Moura,3,,Ermelinda,Caldeira,RN,26255-372
+Caroline Gonçalves,804.962.315-70,1938-06-21,valentinada-conceicao@gmail.com,Esplanada de Moreira,72,,Nova Floresta,Campos,SE,27087939
+Sr. Nicolas Sales,714.695.830-20,1978-03-13,nina76@da.br,Parque de da Conceição,801,,Vila Sumaré,Novaes das Pedras,RJ,16438447
+Davi Lucca Cardoso,105.483.972-79,1952-09-10,sabrinamendes@ig.com.br,Esplanada Costela,293,,Flamengo,Duarte do Campo,BA,94127954
+Dra. Ana Novaes,920.357.618-59,1963-06-18,rochamiguel@uol.com.br,Recanto Teixeira,50,,Coração De Jesus,Nunes da Praia,TO,70572580
+Alícia Moura,297.183.506-59,1939-09-02,cavalcantieduarda@yahoo.com.br,Passarela Mendes,12,,Jardim Atlântico,Costela dos Dourados,ES,34709-200
+João Miguel da Costa,827.639.051-02,1966-08-31,barbosabianca@uol.com.br,Favela João Guilherme Vieira,56,,Minaslandia,Correia do Sul,DF,13736-790
+Sarah Fogaça,912.504.683-70,2001-08-15,luigisilveira@bol.com.br,Fazenda da Cunha,2,,Conjunto Jatoba,Moura de Araújo,RR,57753788
+Henrique Martins,594.632.807-74,1952-02-21,vicenteda-rocha@nascimento.com,Quadra de Cavalcanti,86,,Vila Olhos D'água,Lima,PI,57699869
+Ian Vieira,842.901.536-15,1983-12-11,joao-guilhermemoreira@jesus.org,Campo Bárbara Moura,2,,Padre Eustáquio,Rezende de Cardoso,ES,70536995
+Maria Cecília Carvalho,814.395.672-55,1957-07-06,lda-rosa@ferreira.org,Residencial de Cardoso,878,,São Bento,da Luz do Sul,PE,57918126
+João Miguel Correia,134.789.560-48,1943-07-11,matheusaragao@uol.com.br,Rua Luiz Miguel da Cruz,52,,Lindéia,da Paz,SP,73127703
+Ana Júlia Martins,203.457.961-52,1974-11-12,da-rochapedro-lucas@yahoo.com.br,Pátio Guilherme da Mata,79,,Diamante,da Conceição de Cunha,PA,40595-301
+Manuela Silveira,742.685.301-26,1934-05-07,helena94@alves.org,Área de Farias,21,,Vila De Sá,Peixoto da Praia,RN,57863-471
+Ana Luiza Mendes,210.965.783-95,1999-01-22,enzo-gabriel07@uol.com.br,Lagoa Henrique Pires,83,,Nova Floresta,Rodrigues do Amparo,PA,40547-870
+Luiz Miguel Ramos,583.921.467-19,1975-12-10,haraujo@ig.com.br,Distrito Porto,79,,Vila Canto Do Sabiá,Ferreira,PB,47453-680
+Dra. Kamilly Dias,216.405.897-67,2001-05-19,csilveira@pinto.com,Núcleo Alves,88,,Barreiro,da Mata,PB,62622-085
+Raul Lima,147.803.695-84,2000-09-28,elisa11@uol.com.br,Praça de da Rosa,749,,Mantiqueira,Melo da Praia,MT,66571478
+Alexia Souza,153.072.489-97,2000-12-18,vitor-gabriel17@cardoso.com,Distrito Danilo Rocha,7,,Baleia,Duarte Paulista,DF,62900701
+Paulo Ribeiro,684.530.917-57,1955-11-29,ana-carolinada-cunha@hotmail.com,Fazenda de Azevedo,60,,Alta Tensão 2ª Seção,Nascimento Verde,CE,37198-663
+Laura Farias,139.028.754-88,1990-02-18,ufreitas@bol.com.br,Esplanada Luiz Henrique Araújo,61,,Urca,da Mata Alegre,MG,15481579
+Luiz Gustavo das Neves,681.540.927-94,1936-12-29,maria-vitoria88@yahoo.com.br,Trevo Santos,9,,Floramar,Moreira,AM,75780017
+Agatha Farias,689.423.051-05,1946-03-26,oda-mata@uol.com.br,Condomínio Cardoso,647,,Vila Batik,Moraes,TO,25146392
+Isaac Melo,216.789.403-13,1976-05-05,manuelacarvalho@ig.com.br,Feira Raquel Fernandes,25,,Vila Puc,Nascimento de Goiás,PB,63594-405
+Heloísa Almeida,937.480.162-04,1964-02-15,pedro-lucasgoncalves@uol.com.br,Via Rodrigues,99,,Vila Bandeirantes,Aragão das Pedras,AL,71426269
+Augusto da Paz,248.176.905-85,1982-02-14,matheusrocha@peixoto.org,Colônia de Moura,814,,Parque São Pedro,Dias da Mata,MT,98221-149
+Pietra Costa,856.397.041-01,1995-06-21,ana-claraalves@viana.br,Viela Eduarda Cardoso,66,,Atila De Paiva,Viana,AP,12335151
+Bianca Santos,016.538.479-48,1962-10-25,davi11@da.br,Lago Ana Júlia Freitas,18,,Carmo,Almeida da Serra,SP,25020737
+Arthur da Cruz,817.209.635-68,1961-10-04,yfreitas@pires.com,Condomínio Sarah Rezende,9,,Vila Esplanada,da Rosa,AM,34826985
+Renan Novaes,680.719.235-59,1947-09-17,juanda-cruz@fogaca.org,Aeroporto de Freitas,65,,Nova Vista,da Costa do Campo,MS,22329-512
+Yago Nascimento,761.405.298-67,1949-08-27,daniloda-conceicao@hotmail.com,Núcleo Danilo Novaes,42,,Nova America,Correia Grande,RJ,54406148
+Srta. Eloah da Costa,874.316.902-31,1992-02-19,eda-mota@bol.com.br,Feira Fogaça,69,,Conjunto Jatoba,Araújo,SE,59949601
+Caio Correia,837.694.052-00,1939-07-27,fda-costa@uol.com.br,Vale Beatriz Jesus,20,,São Benedito,Silva Grande,AL,62138571
+Letícia Caldeira,850.791.324-50,1958-05-20,brenoporto@monteiro.com,Praça de Martins,810,,Leonina,Duarte do Oeste,PE,32446-054
+Enzo Gabriel Monteiro,406.812.975-49,2006-02-03,da-rosacaio@costela.br,Residencial Leonardo Costa,52,,Engenho Nogueira,Silva,DF,79844410
+Ian Gomes,807.463.521-07,2002-05-29,davi-lucca48@gmail.com,Distrito de Pires,10,,Saudade,Teixeira,PB,67021958
+Igor Moraes,826.734.951-00,1943-05-26,ccorreia@ig.com.br,Fazenda Aragão,48,,Milionario,da Mata,RN,67711-342
+Antônio da Costa,376.091.285-03,1954-12-27,ana-juliada-costa@ig.com.br,Quadra de Rocha,139,,Vila Esplanada,Gomes do Oeste,PI,84493206
+Eloah Peixoto,938.460.527-10,1999-06-20,ibarros@mendes.br,Residencial de Dias,66,,Vila São Dimas,Campos do Amparo,SE,62864285
+Murilo das Neves,178.593.264-00,1937-06-30,paulo96@ig.com.br,Pátio Arthur Monteiro,34,,Vila Suzana Primeira Seção,Novaes,SP,68061809
+Mirella da Mata,254.091.867-02,1981-05-23,arthur18@hotmail.com,Aeroporto Isabelly Pires,65,,Piraja,Nogueira,PR,1947593
+Maria Luiza das Neves,563.092.871-68,1954-06-22,piresdanilo@yahoo.com.br,Chácara Jesus,5,,Estrela Do Oriente,Campos Verde,AP,87735-460
+Heitor Lopes,973.214.508-05,1990-08-26,prodrigues@uol.com.br,Loteamento Nicolas Lopes,36,,Minaslandia,Rocha de Monteiro,RS,29570932
+Yago Carvalho,850.213.649-60,1982-04-08,ana-carolinaaraujo@hotmail.com,Quadra de Barros,143,,Heliopolis,Cardoso de Minas,RS,76878-925
+Levi Sales,825.419.037-23,2009-11-15,vieiraana-clara@araujo.net,Morro Ramos,35,,Vila Calafate,Jesus,MA,32575893
+Maria Vitória Correia,617.248.309-96,1969-06-16,larapires@gmail.com,Ladeira Farias,5,,Nossa Senhora Do Rosário,Duarte,AP,37626158
+Dr. Lucas Gabriel Dias,813.426.957-55,1988-01-04,pintoana-laura@bol.com.br,Loteamento Clara da Mata,74,,Mirante,Duarte da Prata,CE,27999168
+Mariana Pereira,436.057.829-65,1976-06-25,lcarvalho@costa.com,Setor Bryan Pereira,4,,Santa Lúcia,Ribeiro,ES,03824-347
+Dr. Bruno Ribeiro,692.807.143-50,2001-08-02,ramosalice@aragao.com,Colônia de Porto,94,,São Pedro,Cunha,MS,71492942
+Isabella Rezende,401.729.853-23,1990-07-21,vieiraisabelly@da.br,Chácara de da Luz,74,,Santo Antônio,Freitas,RJ,67178447
+Maria Clara Moraes,127.864.053-35,1945-05-21,fariasrebeca@pinto.org,Conjunto Santos,44,,Havaí,Pires,DF,57560064
+Cecília Costa,841.639.257-91,1966-08-28,da-conceicaomaria-sophia@ig.com.br,Vereda Azevedo,52,,Mariquinhas,Gonçalves de Minas,RN,45249-582
+Francisco Sales,781.690.352-95,1975-06-13,procha@uol.com.br,Distrito Mirella Correia,34,,Conjunto Novo Dom Bosco,Gomes,SC,77130-840
+Davi Lucca Teixeira,516.973.048-93,1932-09-17,barrosleonardo@fogaca.com,Pátio Davi Luiz Moreira,83,,Vila Independencia 3ª Seção,Ramos,AM,98281-492
+Amanda Moura,519.042.867-20,1983-02-21,bianca02@bol.com.br,Residencial de Porto,26,,Barreiro,Nunes de Goiás,SP,45013698
+Sr. João Vitor Almeida,372.560.189-59,1975-10-20,caldeiralavinia@gmail.com,Alameda de Pereira,732,,Aparecida 7ª Seção,Gomes do Galho,PI,16297-484
+Lorena da Mota,925.438.701-05,1962-07-17,carvalhonicole@cardoso.com,Morro Fernandes,5,,Sagrada Família,Aragão da Prata,PA,41004-624
+Vinicius Costela,857.913.420-04,1983-09-28,dmoura@vieira.net,Ladeira da Mata,900,,Pindura Saia,Carvalho,PE,13323-320
+Srta. Sabrina Gomes,519.027.368-77,1986-05-07,ramosjoana@hotmail.com,Largo Augusto da Cruz,41,,Cruzeiro,Ribeiro de Nascimento,TO,14476-626
+Vinicius Ferreira,302.786.954-00,1946-08-06,freitasvitoria@ig.com.br,Jardim Costa,591,,Ermelinda,Alves do Amparo,MA,58034-349
+João Felipe Castro,071.496.235-06,1977-10-06,carolinacardoso@hotmail.com,Vila de Santos,559,,Vila Coqueiral,da Conceição,RR,55610
+Sr. Bryan da Paz,138.670.245-53,1955-09-13,ana-laurafarias@fogaca.com,Ladeira de Fernandes,4,,Dona Clara,das Neves,AP,69221-228
+Daniela Ferreira,398.541.207-32,1972-04-26,rezendevitor-gabriel@bol.com.br,Morro de Ribeiro,65,,Havaí,Cunha de Freitas,SC,69430529
+Dr. João Gabriel das Neves,857.426.103-35,1940-04-11,larissamoura@hotmail.com,Distrito de da Costa,202,,Petropolis,Azevedo,PI,35214486
+Pietra da Rocha,042.138.579-05,1953-12-12,nogueiralarissa@teixeira.com,Campo da Cruz,89,,Jardim Alvorada,Azevedo,MS,76074650
+Mariane Gomes,591.068.743-39,1936-12-20,claricefernandes@viana.com,Feira Alves,67,,Concórdia,Rocha,MG,66390011
+Murilo Barbosa,058.726.914-67,1942-05-03,brenda92@uol.com.br,Via de Araújo,924,,Barão Homem De Melo 3ª Seção,Moreira de da Cruz,AL,70676798
+João Vitor Cunha,139.485.067-01,1989-01-05,correiadiogo@caldeira.br,Setor Mendes,8,,Concórdia,Mendes,SP,88042-164
+Maria Julia da Cunha,784.529.106-49,1966-09-15,crodrigues@bol.com.br,Núcleo Isaac Lima,58,,Flavio De Oliveira,Monteiro do Sul,AC,23663-425
+Srta. Brenda Melo,613.025.479-25,1957-03-13,qcaldeira@lima.br,Avenida de Alves,22,,Granja De Freitas,Castro,RJ,07031-262
+Stella Campos,673.094.851-57,1952-04-13,raquel93@da.br,Rua Ferreira,8,,Vila Paris,Vieira de Costela,AM,38568-770
+João Miguel Peixoto,764.592.813-19,1978-02-06,luiz-fernando63@hotmail.com,Quadra Luiz Henrique Costela,87,,Conjunto Santa Maria,Caldeira Paulista,SC,46780-640
+Maria Fernanda da Rosa,701.245.693-07,1934-10-13,qda-conceicao@ferreira.com,Vereda Pires,75,,Alta Tensão 1ª Seção,Melo Paulista,AM,67060-517
+Dr. Rafael Jesus,865.239.140-89,1989-02-03,da-cruzagatha@da.com,Loteamento de Mendes,21,,Bonfim,Correia,BA,95509-559
+Kamilly Pinto,790.315.486-93,1999-11-17,agatha97@bol.com.br,Loteamento Monteiro,333,,João Pinheiro,Costela das Pedras,TO,49309-076
+Ana Vitória da Cunha,927.683.501-68,1945-07-21,melissa69@almeida.com,Trevo da Conceição,72,,Antonio Ribeiro De Abreu 1ª Seção,Gomes,AC,30164030
+Mariana Fernandes,921.483.756-28,1997-12-18,souzajoao-gabriel@gmail.com,Feira de Martins,60,,Vila Batik,Nascimento das Pedras,PA,25970233
+Lavínia Viana,931.702.465-34,1974-07-19,camilaaraujo@hotmail.com,Residencial de Carvalho,98,,Leticia,Teixeira,RS,68158751
+Juan Vieira,689.204.357-74,1931-03-24,enzogomes@ig.com.br,Conjunto Fernandes,23,,Guaratã,Lima Verde,PI,98964671
+Maria Cecília da Cruz,087.324.956-92,1944-02-07,nascimentoana-beatriz@novaes.net,Chácara Mirella Barros,92,,São Damião,Castro do Sul,AM,64789-809
+Paulo Martins,305.429.861-24,1947-09-11,vda-mota@ig.com.br,Rua Moura,93,,Nova Vista,Araújo da Serra,RN,53520356
+Diego Moraes,697.305.128-68,1994-12-12,piresrafael@silveira.br,Feira Alves,7,,Vila Piratininga,da Conceição,MA,4503971
+Elisa Campos,659.374.012-80,1983-07-24,ana-liviacostela@azevedo.org,Setor Nathan da Rocha,17,,Santa Cruz,Martins de Goiás,MA,82052959
+Sr. Miguel da Rocha,260.871.495-11,1976-12-25,kcarvalho@ig.com.br,Passarela Cauã Pereira,61,,Santa Rosa,Sales de da Costa,MG,81932935
+Gustavo Henrique Sales,062.538.791-03,1953-01-15,thiago04@cavalcanti.br,Viela Raquel Nogueira,20,,Carmo,da Conceição,TO,54870-265
+Yago Cardoso,254.306.179-70,1989-10-19,tnogueira@rezende.com,Vale Enrico Rocha,4,,Centro,da Paz do Oeste,SC,64568-761
+Daniel Pires,516.370.498-20,2009-12-13,evelynda-mota@moura.com,Aeroporto Alícia Castro,760,,Ribeiro De Abreu,da Costa Verde,PE,72854128
+Raquel Moreira,281.953.067-21,2007-03-10,gomeslorenzo@melo.br,Praça Cavalcanti,7,,Independência,Alves Alegre,BA,72459-624
+Yuri Gonçalves,391.284.065-24,1990-11-19,maysanogueira@yahoo.com.br,Avenida Porto,43,,Conjunto Lagoa,Alves do Oeste,PR,29091-689
+Sra. Isabella Rezende,017.548.936-00,1981-02-01,marcos-viniciusaragao@rocha.br,Lago de Vieira,23,,Diamante,Freitas,CE,37947419
+Dra. Sophie Sales,105.293.764-07,1985-07-22,moraesjoao-vitor@moura.com,Vale de Gonçalves,914,,Vila Batik,da Cunha,RN,7646352
+João Guilherme Nogueira,697.123.540-16,1981-03-04,alexandrecardoso@ig.com.br,Aeroporto Clara Sales,897,,São Sebastião,Gomes de Rezende,MA,30252631
+Noah da Mata,048.623.917-96,1959-11-25,castromaria-luiza@azevedo.net,Trecho Benjamin Cunha,944,,Bom Jesus,Oliveira da Prata,RN,66325-782
+Yago Barros,678.305.291-59,1951-05-17,luiz-felipe09@uol.com.br,Rua Sales,87,,Funcionários,Rezende do Amparo,AM,9693128
+Srta. Caroline Moraes,917.034.258-04,1971-04-28,elopes@ramos.net,Setor de Nogueira,35,,Cônego Pinheiro 2ª Seção,Oliveira,PI,4056717
+Sr. Bryan Silveira,095.326.187-59,1971-06-29,manuela19@bol.com.br,Largo da Costa,3,,Solar Do Barreiro,Cavalcanti,AL,60460131
+Emanuelly Moura,938.746.502-00,1972-03-19,moraesjoao-pedro@da.com,Vale Pedro Henrique Pires,16,,Vila Formosa,Silva,MA,2281518
+Isis Farias,279.835.061-12,2002-03-19,juan74@gmail.com,Núcleo de Dias,5,,Apolonia,da Luz da Mata,RO,55845615
+Ana Carolina da Luz,752.168.934-82,2000-12-15,laurajesus@pinto.com,Aeroporto Ana Júlia Farias,23,,Tirol,Nunes,RN,28888-307
+Alexia Cunha,609.347.285-00,1974-07-11,marcelopires@hotmail.com,Favela Ribeiro,67,,Vila Boa Vista,Barros de da Luz,MG,39699-703
+Lara Novaes,024.761.539-07,1982-12-17,joao02@araujo.com,Via Campos,41,,Liberdade,Nunes,SE,61126-265
+Srta. Clara da Luz,162.390.758-68,1971-12-26,tmoreira@uol.com.br,Jardim Martins,4,,Floramar,Ramos,BA,61609-273
+Alexia Caldeira,549.382.607-00,1962-02-16,joao-pedro91@monteiro.net,Alameda Maria Clara Viana,627,,Novo Aarão Reis,Martins,BA,20058-504
+Larissa Rodrigues,705.938.214-32,2004-11-19,yrezende@hotmail.com,Alameda Lopes,6,,Etelvina Carneiro,da Cruz,RO,42866379
+Leonardo Araújo,153.924.068-15,1938-09-05,sduarte@araujo.br,Sítio Gonçalves,75,,Jardim Guanabara,Correia,PA,92726-003
+Benício da Cruz,145.986.732-73,1975-04-29,andrerezende@uol.com.br,Vila de Costa,50,,Vila Ecológica,Mendes Paulista,SP,35130539
+Antônio da Cruz,274.510.863-80,2000-11-06,toliveira@bol.com.br,Conjunto Luigi Mendes,39,,Apolonia,Caldeira,RJ,78948-939
+Yuri Silva,412.798.530-50,1965-03-28,qfreitas@uol.com.br,Quadra de Viana,67,,Nova Gameleira,Nogueira de Azevedo,MG,27802342
+Alice Nogueira,752.061.834-07,1938-07-04,talves@yahoo.com.br,Quadra de da Mota,46,,Grota,Mendes do Sul,ES,99005096
+Emanuel Nogueira,406.729.581-20,1980-02-25,samuel79@uol.com.br,Quadra Gabriela Duarte,673,,Vila Paraíso,Moraes das Flores,PR,44377012
+Giovanna Cardoso,920.834.167-40,1983-09-17,pedro-lucas56@campos.org,Vale Cardoso,51,,Campo Alegre,Vieira da Prata,AP,92251-927
+Helena das Neves,901.273.548-32,1982-05-26,pintoemilly@ferreira.com,Vale de Pires,63,,Tupi A,Almeida,RJ,01521-623
+Ryan Caldeira,659.084.731-20,1958-11-12,alvesleandro@bol.com.br,Largo Camila da Costa,997,,Nova Cintra,Moreira do Norte,PR,12504966
+Kamilly Vieira,072.316.584-07,2005-01-05,maysa95@uol.com.br,Parque de Melo,51,,Alpes,Alves da Mata,RR,46795372
+Clara Pereira,159.867.230-40,1963-08-27,nathan76@viana.br,Alameda de Moraes,2,,Conjunto Califórnia I,Nunes,RJ,29285164
+Amanda Castro,835.690.241-05,1939-08-02,cfernandes@uol.com.br,Vila de Melo,75,,Vila Boa Vista,Mendes de Moraes,BA,43306-630
+Sr. Noah da Cunha,786.120.943-13,1985-12-15,da-conceicaoluiz-henrique@aragao.net,Sítio de da Mota,13,,Vila Nova Dos Milionarios,Martins de Ferreira,RO,92214531
+Stephany Alves,389.064.572-00,2003-03-12,maysamonteiro@uol.com.br,Avenida de Pinto,63,,Canadá,Pereira de Minas,AM,80364034
+Sr. Davi Lucca da Costa,190.285.367-95,1993-06-24,moreiramariana@rezende.com,Morro de Dias,79,,Vila Madre Gertrudes 2ª Seção,da Mata,RJ,20475-540
+Sr. Luiz Fernando Farias,480.351.967-66,1968-08-22,mendesluiz-gustavo@hotmail.com,Feira Monteiro,83,,Baleia,da Cruz,RS,23766-033
+Levi da Cruz,361.572.048-26,1938-05-06,jdas-neves@bol.com.br,Trecho de Barbosa,27,,Vila Suzana Primeira Seção,Carvalho,MT,42425-861
+Enzo Rodrigues,134.802.567-08,1992-11-06,marcela23@bol.com.br,Morro da Luz,30,,Bonsucesso,Oliveira,PB,19083-281
+Ana Carolina Rodrigues,561.274.083-26,1999-04-07,rebecacavalcanti@ig.com.br,Alameda Viana,706,,Jardim Dos Comerciarios,Barros do Galho,SC,19095428
+João Vitor Vieira,781.420.593-04,1989-09-07,alice58@bol.com.br,Recanto Monteiro,133,,Barão Homem De Melo 1ª Seção,da Cunha,AC,32256-270
+Arthur Martins,603.851.492-98,1933-10-20,luiz-miguel72@hotmail.com,Vila Eduardo Costela,23,,Barão Homem De Melo 2ª Seção,Nogueira de Goiás,PI,33701027
+Evelyn Cardoso,273.615.498-37,1997-09-09,guilhermeda-costa@almeida.org,Lagoa da Conceição,990,,Solimoes,Cardoso,PI,57995918
+Ana Lívia Sales,640.519.378-01,1996-11-17,jnovaes@cunha.com,Feira Bernardo Silveira,87,,Prado,das Neves,TO,4736801
+Enzo Gabriel da Cruz,610.793.845-10,1941-03-15,aragaolucca@gmail.com,Lago Davi Lucca Viana,951,,Vila Puc,Fogaça,MT,48453-591
+Srta. Maysa da Conceição,513.806.497-57,1948-05-08,cavalcanticamila@pereira.br,Estação Teixeira,67,,Pompéia,Silveira,PB,60236266
+Olivia Moura,927.168.543-19,1953-10-26,pgomes@oliveira.net,Chácara Farias,793,,Copacabana,Nogueira,AL,64713810
+Heitor Moraes,120.695.378-03,1961-04-09,anthonynovaes@yahoo.com.br,Travessa Cecília da Costa,21,,Caetano Furquim,Moura,RR,44075-468
+Alexia Rezende,630.517.298-68,1943-12-07,rmoreira@silveira.com,Colônia de da Conceição,107,,Marçola,da Rosa,AM,34767463
+Ana Carolina Ramos,159.470.863-01,1964-05-31,julia13@yahoo.com.br,Campo Nascimento,28,,Jaqueline,Silveira de Pereira,PE,82262871
+Fernanda Pereira,623.045.719-99,1949-06-28,eda-mota@uol.com.br,Sítio Novaes,270,,Álvaro Camargos,Araújo,BA,22237478
+Breno Sales,621.530.987-77,1985-09-24,mporto@uol.com.br,Lago Carvalho,3,,Vila Do Pombal,Porto das Pedras,RO,64807004
+Gustavo Henrique Mendes,736.018.452-53,1960-02-27,joao-pedrojesus@gmail.com,Rodovia Bárbara Ribeiro,48,,Ápia,Rodrigues do Norte,MS,53911801
+Sr. Lorenzo Viana,396.087.154-66,2003-09-27,xjesus@fogaca.com,Esplanada de Gonçalves,49,,Vila Maria,Dias de Sales,PB,14205-960
+Ana Júlia da Rosa,687.943.215-82,1936-07-05,peixotoana@hotmail.com,Recanto Pinto,70,,Fazendinha,Monteiro,PE,48620500
+Kamilly Ferreira,681.234.795-73,1944-11-22,diasthomas@dias.net,Colônia Ferreira,5,,Jardim Do Vale,Sales,AP,15112-072
+Luiza Cavalcanti,356.984.710-10,1975-08-25,nicolaspires@costa.com,Colônia Teixeira,818,,Fazendinha,Fogaça,DF,47209-649
+Pietro Fernandes,178.206.493-13,1934-11-23,imartins@peixoto.br,Setor da Conceição,4,,Vila Aeroporto,da Cunha da Praia,PA,60301110
+Pedro Nunes,654.738.209-56,2005-11-21,maria-vitoriada-mata@hotmail.com,Distrito Joaquim Pinto,4,,Gameleira,Barbosa de Dias,AL,87907-764
+João Lima,896.520.174-85,1946-07-12,ninaviana@bol.com.br,Jardim Gustavo Henrique Ramos,1,,Caetano Furquim,Ferreira,PR,13095-706
+Giovanna Peixoto,273.691.504-61,1989-08-11,kmendes@bol.com.br,Trevo de Porto,1,,Vila Havaí,Barbosa de Lima,DF,36884758
+Calebe Teixeira,273.598.601-21,1933-07-09,moraesisabella@ig.com.br,Lago de Campos,8,,Camponesa 1ª Seção,Ribeiro,PR,33830-041
+Srta. Nina Martins,450.982.367-38,1975-08-09,costamelissa@ig.com.br,Fazenda de Mendes,72,,Vila São Gabriel,Ferreira,MG,72992021
+Dr. Eduardo Cunha,146.038.297-87,1981-08-16,da-cruzalana@bol.com.br,Chácara João Lucas Fogaça,23,,Vila Cemig,Sales,AC,56214860
+Pedro Henrique da Costa,623.015.749-70,2002-02-24,ymoraes@uol.com.br,Chácara Monteiro,4,,Comiteco,Souza,GO,42912-989
+Sr. Marcelo da Luz,195.032.468-06,1987-05-02,ybarros@freitas.com,Quadra Sales,39,,Alto Vera Cruz,Novaes Verde,PB,63389-638
+Ryan Correia,816.509.732-68,1939-05-18,rafael32@uol.com.br,Largo Almeida,5,,Vila Piratininga,Barros,AC,31179014
+Sr. Arthur Silva,410.873.965-57,1993-07-01,heloisa51@ribeiro.com,Condomínio Barros,7,,Bernadete,Gomes,RN,80199-592
+André Melo,906.785.423-92,1975-12-06,da-cunhaagatha@yahoo.com.br,Alameda Gustavo Henrique Almeida,8,,Conjunto Taquaril,Peixoto,RO,08523-774
+João Felipe da Mota,395.680.271-30,1981-06-21,ana-laura37@pires.com,Lagoa de Peixoto,972,,Boa União 1ª Seção,Oliveira de Dias,AM,99653-636
+Felipe Teixeira,709.684.123-78,1951-10-04,isabella85@da.net,Vale de Rocha,33,,Vila Santa Monica 2ª Seção,Araújo,ES,86734509
+Luiza Silva,473.621.850-90,2000-05-30,hcampos@da.com,Sítio Maria Luiza Ramos,34,,Bonfim,Melo,DF,68458-394
+Isabelly Lima,275.384.061-07,1935-08-23,da-cunhamirella@santos.br,Via de Costela,26,,Cidade Jardim Taquaril,Mendes,PE,59787666
+Stephany Viana,380.964.157-00,1998-08-17,laurafernandes@uol.com.br,Viaduto Fernanda Cunha,902,,Betânia,Santos,AM,94196167
+João Gabriel Cardoso,147.069.285-67,1948-02-17,luiz-felipecorreia@gmail.com,Quadra Pereira,97,,São Gabriel,Gomes do Norte,MT,37443186
+Theo Fogaça,758.012.493-97,1947-07-12,raquel97@bol.com.br,Praia Miguel Almeida,9,,Mariquinhas,Jesus do Norte,MT,43321581
+Srta. Laís Gomes,831.570.264-53,1981-02-05,kda-rocha@uol.com.br,Estrada Lima,13,,Santo Agostinho,Mendes Grande,PA,92558046
+Sra. Ana Julia Moraes,453.926.710-80,1973-04-13,nmoreira@da.com,Ladeira de Gonçalves,1,,Estrela Do Oriente,Duarte de Santos,SE,19384229
+Isabel Pereira,415.392.867-46,1993-06-08,costathomas@yahoo.com.br,Ladeira Rodrigues,8,,São Jorge 1ª Seção,Freitas do Campo,AM,37910580
+Srta. Mariana Pires,094.156.372-34,1939-12-21,fogacaalexandre@bol.com.br,Rua João Vitor Oliveira,21,,Lorena,Ferreira,SE,77322362
+Amanda Pinto,761.240.593-80,1954-12-15,luanaalmeida@ig.com.br,Fazenda de Pinto,17,,Camponesa 1ª Seção,Cardoso,SE,68210969
+Dra. Isadora Cunha,092.841.573-23,1989-12-24,gomesjuan@ig.com.br,Chácara de Rezende,61,,Comiteco,Peixoto,AL,53411483
+João Felipe Teixeira,658.392.410-24,1958-08-24,jesusmarcela@lima.br,Favela de Gonçalves,42,,Alto Caiçaras,Cunha de Martins,PI,55945593
+Heloísa Moura,270.391.486-50,1999-01-08,almeidaluiz-miguel@yahoo.com.br,Morro Bruna Aragão,912,,Maria Goretti,Cunha,CE,28756-530
+Daniela da Luz,248.195.637-00,1968-09-22,natalia57@yahoo.com.br,Pátio Maitê Barros,612,,Carlos Prates,Gonçalves de Pires,DF,71959479
+Beatriz Ribeiro,645.381.970-84,1970-04-07,agatha14@moura.br,Conjunto de Cavalcanti,8,,Novo Santa Cecilia,Fogaça,PB,74026-843
+Enrico Jesus,324.769.810-87,1993-10-31,silvagustavo@gmail.com,Estação Campos,73,,Parque São José,Freitas,ES,18317-257
+Sabrina Moreira,107.963.824-50,1966-08-11,gcavalcanti@hotmail.com,Vila Isabelly Moraes,25,,Vila Madre Gertrudes 1ª Seção,Ferreira,SP,98285137
+Rodrigo Vieira,160.238.495-98,1934-02-23,cvieira@bol.com.br,Campo da Costa,8,,Vila Sumaré,Costa Paulista,AC,71400522
+Emanuel Farias,506.184.927-20,1980-01-07,evelynmelo@rocha.com,Trevo Pedro Henrique Barbosa,6,,Caiçara - Adelaide,Gonçalves Grande,RO,62506-986
+Dr. Kaique Sales,463.792.815-09,1989-10-22,da-mataraul@da.net,Praça de Azevedo,152,,Leticia,Pereira,PB,39546-640
+Dr. Murilo Vieira,086.529.173-02,1978-01-28,xfreitas@gmail.com,Colônia de Campos,55,,Funcionários,Aragão,SC,18997-234
+Diego Araújo,376.920.451-43,1995-03-19,nicolas42@costela.com,Recanto de Freitas,574,,Vila Real 1ª Seção,Caldeira,PA,78814113
+Dra. Maysa Azevedo,519.064.283-60,1961-11-23,gustavo-henriquecavalcanti@ig.com.br,Setor Cavalcanti,3,,Flavio De Oliveira,da Conceição de da Cruz,ES,34742-440
+Srta. Mariana Cunha,124.538.976-91,1947-09-09,camposjoao-vitor@bol.com.br,Sítio de Barros,7,,Venda Nova,Oliveira,RJ,95253982
+Pietra Teixeira,164.508.792-11,1991-05-17,maria-vitoria82@aragao.net,Loteamento de Nascimento,42,,Vila Piratininga Venda Nova,Ferreira,RJ,42537193
+Sr. Bryan Farias,132.750.946-61,1943-08-28,ida-rocha@araujo.com,Ladeira Almeida,73,,Independência,Pires do Galho,MT,25201-476
+Mariane Campos,893.701.624-96,1942-09-14,biancaporto@bol.com.br,Avenida de Silva,6,,Madri,da Conceição,MA,56191-145
+Sr. Henrique Correia,485.609.372-00,2002-11-02,diasarthur@uol.com.br,Lago Yuri Araújo,2,,Buraco Quente,Peixoto da Mata,SE,79892-677
+Dr. Leonardo Martins,763.410.529-52,1978-01-26,guilhermeviana@gmail.com,Conjunto Mariane Alves,31,,Juliana,Martins do Galho,DF,94986-006
+Paulo Azevedo,408.573.219-60,1991-02-22,mouralevi@bol.com.br,Praia Maria Clara da Conceição,94,,Vila Esplanada,Monteiro Grande,MG,80864927
+Mariane Lopes,235.064.718-80,1931-08-10,ocosta@bol.com.br,Trecho Heitor Cardoso,2,,Betânia,da Conceição de das Neves,DF,57738793
+Gustavo Henrique Moraes,946.051.283-60,1964-10-01,marinasales@gmail.com,Vereda de Moreira,51,,Vila Pinho,Viana de Ribeiro,MS,00518-103
+Maria Novaes,862.351.940-05,1984-09-28,duartemurilo@duarte.com,Morro Alice Cardoso,35,,Camargos,Fernandes do Campo,MS,81317344
+Maria Eduarda Azevedo,514.287.036-08,1933-12-18,peixotonoah@da.com,Núcleo de Souza,48,,São Sebastião,Barros,PE,58988-307
+Ana Vitória da Cunha,069.841.573-66,1970-10-03,leonardo71@yahoo.com.br,Chácara de Ramos,57,,Vila Esplanada,Nunes,MS,91569251
+Dr. Luiz Miguel Gomes,310.684.275-07,1984-04-11,tnascimento@hotmail.com,Praça Davi Correia,13,,Vila Paraíso,Campos,AL,79038-526
+Vinicius Ribeiro,451.978.630-48,2001-08-18,lucas-gabrielbarbosa@nunes.br,Campo de Azevedo,364,,São Gabriel,Silveira de Minas,RS,40188096
+Srta. Olivia Ramos,219.583.074-32,1955-03-05,pcosta@da.org,Favela Heloísa Pinto,88,,Santo André,Silveira de Goiás,RS,23317-649
+Rodrigo Oliveira,317.280.546-80,1971-08-03,gabrielly10@bol.com.br,Parque de Ferreira,28,,Satelite,Santos,AC,21019-129
+Daniel Barros,503.829.761-77,1934-12-19,luiz-gustavocarvalho@porto.org,Viaduto de Viana,8,,Vila Da Luz,Fernandes,BA,12456-528
+Srta. Rafaela Nascimento,720.439.561-16,2001-06-29,yago70@gmail.com,Ladeira de Ferreira,9,,Confisco,Nogueira,MT,91435-377
+Luigi Costa,258.413.796-82,2001-03-29,ana-juliacardoso@vieira.com,Setor de Silva,255,,Confisco,Lopes da Serra,PI,13428493
+Manuela Fernandes,913.245.706-52,1990-04-21,cduarte@da.com,Favela da Cunha,51,,Frei Leopoldo,Rezende de Martins,PE,67417482
+Matheus Costa,193.608.257-86,1939-05-28,diasmarcelo@hotmail.com,Rodovia Cardoso,87,,Caiçara - Adelaide,Ferreira,RJ,86551-906
+Pietro Nunes,648.372.105-62,1997-12-17,luanapires@yahoo.com.br,Rodovia Thiago Moura,2,,Castelo,Gomes de Moraes,RS,16473640
+Bianca Porto,618.379.452-09,1996-04-06,dpeixoto@yahoo.com.br,Via Azevedo,46,,Santa Rita De Cássia,Aragão,ES,70568498
+Pedro Miguel Fogaça,708.659.342-74,1950-01-01,rodrigomoreira@barros.com,Travessa da Cruz,43,,São Benedito,Novaes de Costa,AC,27054-863
+Cauã Ferreira,138.956.047-39,2000-11-26,das-nevesluiz-miguel@monteiro.net,Esplanada de Barbosa,83,,Pindorama,da Costa de Goiás,MG,75819-797
+Luiz Fernando Porto,017.849.523-97,1939-05-19,onogueira@uol.com.br,Via de Melo,29,,São Jorge 3ª Seção,da Cruz,RJ,82787873
+Thales Campos,051.936.427-99,1948-08-01,vjesus@uol.com.br,Feira da Mota,98,,Conjunto Celso Machado,Campos do Norte,MT,49850266
+Alana Cavalcanti,345.798.026-83,1968-05-14,xcardoso@gmail.com,Rodovia Rodrigo Jesus,21,,Primeiro De Maio,da Luz,SP,3502149
+Sofia Barbosa,540.327.189-97,1983-01-04,beniciocosta@nascimento.com,Distrito Gomes,92,,Ipiranga,da Rocha do Galho,BA,10188477
+Dr. Carlos Eduardo Pereira,231.809.475-60,1947-03-04,onascimento@bol.com.br,Rua de Monteiro,66,,Itatiaia,Aragão,SC,10354817
+Sr. Igor Barbosa,503.926.714-25,1975-07-19,camila24@moraes.br,Estação Alice Vieira,91,,Dom Silverio,Campos,MG,44008045
+Paulo Farias,425.971.368-09,2006-03-21,uda-mata@bol.com.br,Quadra de Pereira,30,,São João Batista,Nunes do Sul,GO,30525-086
+Valentina da Conceição,920.471.368-22,1990-07-31,renan64@bol.com.br,Parque Enrico Souza,494,,Pantanal,da Paz,MT,30654-381
+Natália Santos,054.378.612-90,1990-02-08,novaesheitor@gmail.com,Estação Rodrigues,2,,Canaa,Costa,GO,84066230
+Srta. Sophia Moura,982.047.153-23,1942-02-15,da-pazenrico@peixoto.com,Residencial Duarte,47,,Comiteco,Correia da Praia,AC,1954020
+Fernando Cunha,630.924.715-80,1966-12-01,alicefreitas@bol.com.br,Residencial Emanuel Mendes,671,,Conjunto Celso Machado,Santos,RN,7618722
+Maitê Melo,923.761.450-07,1990-12-04,emanuellyda-rocha@almeida.org,Favela de Aragão,94,,Minaslandia,Cavalcanti de Aragão,AC,07829-006
+Thiago Ramos,357.601.948-01,1989-04-04,ferreirayuri@fogaca.net,Via de Gomes,931,,Nossa Senhora Do Rosário,Azevedo,DF,10002748
+Dra. Marina da Conceição,896.543.721-00,1985-02-10,alicia81@nascimento.com,Favela Luiz Fernando da Cunha,56,,São João,da Conceição,MG,51121886
+Ana Luiza Teixeira,627.190.583-86,1959-02-26,joao-guilhermeda-rosa@martins.br,Rua Moreira,2,,Lajedo,Sales,PR,37622711
+Benjamin Porto,687.395.142-00,2000-10-16,jsilva@uol.com.br,Fazenda Helena Cunha,23,,Madre Gertrudes,Santos,RJ,20851790
+Marcelo Cavalcanti,081.924.365-51,1989-04-22,augustocunha@correia.com,Alameda de Martins,97,,Santa Branca,Souza da Prata,RJ,18728299
+Evelyn Nogueira,819.604.572-76,1981-09-24,azevedomaria@freitas.net,Ladeira Silva,75,,Ouro Preto,Campos da Serra,RS,24877262
+João Porto,921.608.457-01,1982-11-11,lucca54@ig.com.br,Lago de Ramos,40,,Marçola,Vieira,MT,69274118
+Clara Nogueira,745.016.832-44,1942-07-23,agatha92@porto.org,Travessa Nina Nogueira,90,,Mantiqueira,Moreira,RN,03530-874
+Alexia Jesus,920.581.764-30,1986-05-18,aragaopedro@da.com,Jardim Cauê Costa,85,,Dom Cabral,Fogaça,PA,99396851
+Julia Porto,546.198.320-06,1948-03-07,oliveiraisabella@uol.com.br,Alameda de Martins,78,,Vila Aeroporto,Correia do Amparo,ES,34307-169
+Helena Cunha,457.203.169-06,1953-07-27,vitorda-costa@ig.com.br,Ladeira de Oliveira,6,,Cabana Do Pai Tomás,Silveira de da Costa,AC,9283546
+Sra. Elisa da Rocha,857.603.419-01,1991-03-25,lorenzo61@rocha.com,Aeroporto Isadora Alves,32,,Conjunto Santa Maria,Nunes de Barros,CE,79444-680
+Olivia Alves,124.087.563-08,2002-05-20,davi60@nunes.com,Colônia Lucca Campos,84,,Cdi Jatoba,das Neves dos Dourados,PE,96709642
+Luiz Gustavo Viana,634.895.712-82,1953-10-30,fda-rocha@hotmail.com,Quadra Stephany Rocha,57,,Itapoa,da Conceição do Sul,BA,12308012
+Sr. Murilo Gonçalves,792.046.153-70,1935-05-03,pedro-miguelrodrigues@bol.com.br,Praia Eduarda Nascimento,18,,Lorena,Cardoso das Flores,PE,20150761
+Emanuelly Rodrigues,457.082.193-60,1932-04-12,bryan11@hotmail.com,Trevo Fernandes,45,,Vila Nova Cachoeirinha 2ª Seção,Souza,PR,13951213
+Cauê da Rosa,183.469.072-22,1933-02-21,sofiacunha@bol.com.br,Colônia Farias,89,,Piratininga,Moraes Paulista,DF,28138-390
+Dr. Henrique Vieira,367.129.580-59,1980-09-17,nascimentomanuela@bol.com.br,Ladeira Kaique Gomes,534,,Vila União,Oliveira Paulista,PI,2649922
+Igor Pires,702.968.134-78,1946-06-30,thalespires@nascimento.com,Viaduto de Alves,902,,Jardim Dos Comerciarios,Souza do Galho,SE,43688576
+Brenda Farias,216.038.945-51,1961-09-27,laura46@caldeira.br,Passarela Lara da Rocha,82,,Jardim Leblon,Barros,MG,78618570
+Vitória Melo,687.542.903-92,1995-08-12,caua49@yahoo.com.br,Vereda Gonçalves,8,,Vila Sesc,da Rosa do Sul,PR,98815371
+Dra. Maria Sophia Nunes,372.856.104-53,1972-07-10,ribeiroisis@yahoo.com.br,Morro Porto,60,,Funcionários,Pinto de Viana,PA,51045898
+Heitor Nunes,125.937.804-79,1993-07-17,gcavalcanti@uol.com.br,Vale de Viana,9,,Nova Granada,Campos da Mata,TO,64165-452
+Nina Souza,293.150.684-24,1944-10-28,vieiraanthony@bol.com.br,Feira Oliveira,18,,Vila Tirol,Castro da Prata,PE,24892-691
+Maitê Alves,906.148.372-78,1955-04-22,aoliveira@hotmail.com,Lagoa Gustavo Fogaça,45,,Vila São Gabriel Jacui,Pereira,RS,70804745
+Sr. Juan Campos,430.817.526-71,1940-09-16,caionovaes@gmail.com,Favela de Aragão,4,,Vila União,Nascimento,GO,90954358
+Daniela Aragão,541.736.820-26,1943-08-07,sofiaribeiro@uol.com.br,Praia de Costa,990,,Juliana,Costa,AC,95503440
+Helena Melo,538.210.679-77,1950-12-28,cmoraes@ig.com.br,Morro Maria Sophia Gomes,51,,Lorena,Vieira do Amparo,MA,3121464
+Emanuelly Cavalcanti,467.350.821-17,1992-03-19,diaslucas-gabriel@ig.com.br,Viaduto Leandro Gomes,55,,Vila Atila De Paiva,Novaes,PE,74070986
+Sr. Antônio Pinto,751.423.908-14,1949-03-01,stella83@uol.com.br,Condomínio Novaes,6,,Varzea Da Palma,Nunes Alegre,MG,82114721
+Fernanda da Cruz,403.572.986-83,1932-12-14,amanda70@aragao.br,Rua Pedro Peixoto,59,,Novo Aarão Reis,Martins,PB,20799784
+Ana Ramos,986.420.513-70,1994-08-10,wporto@da.br,Estrada de Moreira,621,,Vila Batik,Costela do Amparo,BA,10094-119
+Guilherme Castro,790.623.548-74,1931-05-22,oliveirathomas@gmail.com,Estação de Lopes,94,,Grotinha,Costela,SE,12778753
+Lucas Gonçalves,830.912.547-04,1941-06-15,aaraujo@gmail.com,Lago de Pinto,97,,Maria Tereza,Azevedo de Goiás,MT,30544382
+Bruna Jesus,543.829.710-04,1970-11-08,isabella93@hotmail.com,Estrada Guilherme Nogueira,82,,Conjunto Santa Maria,Melo,MS,27538756
+Lívia Fernandes,935.148.206-51,1962-06-25,cavalcantimaria-clara@pereira.com,Alameda de Peixoto,416,,Serrano,Oliveira,AM,93946-683
+Arthur Gomes,032.145.798-60,1998-12-10,aramos@duarte.br,Recanto Cardoso,91,,Castelo,Caldeira do Galho,PA,63075-293
+Luiza Cardoso,528.497.136-19,1991-05-23,moreiramaria-alice@yahoo.com.br,Conjunto Carvalho,79,,Jardim Atlântico,Duarte do Norte,PI,90119-104
+Dr. Kaique Duarte,218.036.954-98,1974-10-09,melomarina@pereira.com,Alameda Fernandes,50,,Maria Tereza,Fogaça Paulista,ES,53975-232
+Maria Cecília Cavalcanti,615.032.498-24,1997-09-20,cardosoheitor@da.br,Largo Monteiro,92,,Nova Pampulha,Rodrigues,PE,43914-738
+Nina Freitas,409.678.325-00,1988-02-18,ianrocha@gmail.com,Estrada Cauê Souza,12,,Dom Bosco,Santos,RR,35484488
+Luiz Gustavo da Cruz,762.935.180-12,1972-01-01,mouragustavo@uol.com.br,Jardim Thomas Correia,646,,Jatobá,Silveira,AL,56808160
+Manuela Correia,892.475.130-14,1979-04-18,nina18@das.br,Sítio de Barbosa,44,,Novo Aarão Reis,Barros da Serra,GO,34466975
+Eloah Dias,647.125.038-07,1972-04-06,rebeca46@bol.com.br,Praça de Novaes,99,,Coqueiros,Rezende de Caldeira,AC,46934642
+Rafaela da Mota,042.513.689-24,1957-09-26,qcardoso@moura.br,Praia Cardoso,20,,São José,Campos da Mata,RJ,75893526
+Davi Lucas Cardoso,091.465.328-89,1944-12-31,maria-ceciliagoncalves@cavalcanti.br,Lago Mariana da Rocha,619,,Álvaro Camargos,Rocha,SE,88562991
+Sophia Souza,238.675.914-82,1932-04-02,framos@bol.com.br,Avenida da Cunha,9,,Anchieta,Nogueira,MT,41228-064
+Letícia da Cunha,261.795.843-46,1949-12-16,raquel76@hotmail.com,Loteamento de Azevedo,94,,Novo São Lucas,Nascimento de Alves,AC,62751552
+Thomas Duarte,392.714.068-69,1998-03-24,luiz-felipedas-neves@bol.com.br,Passarela de Peixoto,38,,Suzana,Araújo da Praia,PA,46939-650
+Srta. Brenda da Mata,719.084.265-94,1963-03-16,matheus26@uol.com.br,Estrada Nogueira,161,,Penha,das Neves de Campos,TO,03500-950
+Cauã Ramos,601.423.859-05,1983-05-17,iansilva@farias.com,Rodovia Natália Rocha,531,,Maria Goretti,das Neves das Flores,PB,34224-478
+Sr. Juan Jesus,435.679.218-19,1941-07-03,marina85@sales.com,Vale Araújo,665,,Independência,Lopes,DF,57699874
+Leonardo Lopes,258.067.394-65,2001-07-24,pgomes@rodrigues.net,Aeroporto Rezende,9,,Cruzeiro,Lima do Amparo,AM,96384-286
+Emanuelly Silva,470.213.689-50,1979-06-07,sribeiro@hotmail.com,Vila Lavínia da Luz,6,,Ouro Preto,Barros,PB,93954961
+Ryan Novaes,326.571.894-82,1998-04-10,miguelmonteiro@ig.com.br,Avenida Ana Julia Gonçalves,802,,Alto Dos Pinheiros,Mendes,TO,14431-657
+Levi da Conceição,091.574.286-11,1978-12-22,nda-rocha@yahoo.com.br,Rua da Rosa,72,,Minas Brasil,Oliveira,PE,39646-269
+Paulo Barbosa,215.489.630-89,1989-02-11,joao-vitormendes@santos.br,Trecho Gabriel Souza,795,,Canadá,Correia,PI,31333257
+Ryan Mendes,936.045.812-06,2000-02-10,dazevedo@melo.net,Chácara Ana Luiza Barros,779,,Maria Virgínia,da Luz de Minas,RR,18883369
+Murilo Almeida,614.935.728-73,1930-03-04,cunhaluiz-henrique@uol.com.br,Vale Juan Barros,856,,João Alfredo,Nunes do Galho,BA,96654410
+Emanuelly Cardoso,296.315.087-30,2005-11-14,da-luzjuliana@da.com,Viela João Miguel da Mota,84,,Braúnas,da Luz do Sul,MT,18980836
+Eloah Lima,358.617.409-84,2002-05-28,vitoriaribeiro@da.org,Distrito de Alves,31,,Novo Ouro Preto,Jesus,ES,82526-053
+Diogo da Rosa,305.481.962-06,1978-07-10,nascimentolorenzo@duarte.br,Praça Juan Freitas,40,,Nossa Senhora Da Aparecida,da Mota Paulista,RN,59100-406
+Amanda Alves,479.016.385-75,1985-09-05,jcosta@freitas.net,Vereda de Barros,73,,Gutierrez,Pires,PA,71753-945
+Alexandre Cunha,063.157.298-86,1932-02-05,moraessophie@hotmail.com,Lago Lima,39,,Barão Homem De Melo 1ª Seção,Costela de Goiás,RJ,995754
+Lucas Costa,371.809.645-57,1991-12-08,da-pazvicente@sales.com,Viela Catarina Pinto,63,,Santa Efigênia,Azevedo,RN,19979-017
+Luiz Otávio Dias,018.432.956-60,1975-04-07,luana22@rezende.org,Rodovia de Pires,76,,Monsenhor Messias,Ribeiro,SE,44663706
+Dra. Helena Rezende,645.073.891-00,1985-05-01,vicentegoncalves@hotmail.com,Morro de Gomes,97,,Centro,da Paz do Campo,RN,61231090
+Luna da Rosa,395.184.762-09,1975-07-18,wjesus@uol.com.br,Morro Lopes,42,,Lourdes,Nunes,GO,24044-406
+Augusto Rodrigues,458.629.037-47,1988-08-14,camila35@fogaca.br,Travessa Murilo Moreira,84,,Tiradentes,Moreira,RS,21575738
+Joaquim Correia,978.430.216-04,1976-12-08,goncalvesbernardo@gmail.com,Núcleo de Pinto,73,,Vale Do Jatoba,da Rosa,MS,32488-555
+Luana Gonçalves,791.420.358-05,1994-01-26,eduardo78@yahoo.com.br,Parque de Fernandes,52,,Serrano,Carvalho,SC,8295708
+Elisa Moreira,460.253.918-15,1942-02-07,mariane22@ig.com.br,Alameda Pietro Moura,734,,Vila São Gabriel Jacui,Santos,PE,35613508
+Maria Sophia Rezende,578.642.390-56,1986-11-28,leticialopes@ig.com.br,Passarela Barros,502,,Vila Formosa,Freitas,MS,47926-438
+Dra. Milena Rocha,402.513.687-26,1962-07-04,jbarros@gmail.com,Viela Maria Julia Campos,83,,Guarani,Nunes,AM,40407-765
+Ana Clara da Costa,041.652.783-35,2005-10-17,erickazevedo@melo.br,Praia de Gonçalves,43,,Vila Antena,Cardoso,SP,26237904
+Noah Sales,514.390.682-24,1986-05-31,ana-julia76@ig.com.br,Vila Daniel Alves,6,,Leonina,Carvalho,RO,80813820
+Benjamin Rocha,831.264.970-04,1938-06-27,silvajoao-miguel@bol.com.br,Rodovia da Cunha,6,,Lourdes,Rodrigues,AP,51051-396
+Elisa Rocha,768.534.209-00,1989-03-12,tgomes@goncalves.br,Campo Azevedo,214,,Vila Mantiqueira,da Rosa do Campo,PE,26177088
+Davi Lucca Teixeira,761.234.089-50,1982-10-09,xduarte@ribeiro.com,Praça Ana Luiza Carvalho,75,,Pongelupe,Gonçalves de da Conceição,RJ,71846274
+Benjamin Lopes,569.374.012-99,1969-05-24,cardosodavi-lucca@martins.com,Via Renan Correia,73,,Buritis,Rodrigues,PA,37439-053
+Miguel Novaes,302.859.461-70,1942-02-18,emillyda-conceicao@bol.com.br,Lago de Novaes,892,,Vila Independencia 1ª Seção,Gonçalves,MT,71113001
+Dra. Alexia Gonçalves,214.658.973-64,1967-01-08,oda-conceicao@azevedo.net,Recanto Benício Ramos,60,,Nova Gameleira,da Rosa de Nascimento,DF,12601772
+Bianca da Costa,478.135.290-14,1988-09-26,jgoncalves@gmail.com,Largo Maria Sophia Lopes,92,,Vila Aeroporto Jaraguá,Novaes,RS,92828872
+Dra. Amanda Costa,728.940.651-67,1989-12-15,rlima@ig.com.br,Recanto Bryan Farias,28,,Marieta 2ª Seção,Aragão,BA,52629216
+Giovanna Caldeira,138.297.065-02,1940-04-06,alexandrecorreia@barros.com,Alameda Bruna Ferreira,73,,Lagoinha,da Paz de Alves,PR,17026744
+Raul da Rosa,372.148.690-04,1998-04-30,da-matamaysa@da.com,Parque Almeida,5,,São Gabriel,Martins,PE,98508531
+Cauã Fogaça,520.147.963-43,1958-08-21,mirella32@farias.net,Estação de Pires,87,,Caiçara - Adelaide,Viana de da Mota,RR,77382797
+Amanda Caldeira,360.451.972-16,2002-07-06,aragaoesther@hotmail.com,Largo Silva,570,,Vila Das Oliveiras,da Cruz Paulista,RO,84194034
+Enzo Gabriel Lopes,625.179.843-28,1968-12-25,peixotodaniela@uol.com.br,Conjunto de Cavalcanti,78,,Buritis,Moreira Verde,RR,67926923
+Manuela da Conceição,085.239.641-42,1956-02-28,laispeixoto@ig.com.br,Avenida Souza,4,,Cônego Pinheiro 2ª Seção,Cardoso,SC,57692086
+João Pedro Almeida,208.497.563-83,1933-01-06,lorenzoda-mata@rezende.net,Largo Vieira,404,,Vila Petropolis,Jesus de Barbosa,AL,37939798
+Ana Beatriz Fogaça,760.852.493-65,1942-08-24,mirella84@costela.br,Condomínio Vinicius Rocha,61,,Padre Eustáquio,Melo,AM,40906085
+Bruno Costela,237.910.684-31,1959-05-07,isabellyrodrigues@uol.com.br,Morro Gabriel Melo,23,,Vila Minaslandia,Freitas,RR,15634-657
+Murilo da Mota,704.631.298-22,1991-12-21,thalesda-luz@das.br,Jardim da Rosa,87,,Coqueiros,Cardoso,PA,97538-447
+Maria Cecília da Luz,208.169.453-06,1950-04-13,joanamartins@viana.com,Vereda Caldeira,627,,Goiania,Pires da Serra,PB,84294-245
+Ana Costela,104.589.237-88,1984-04-08,isabel54@cunha.com,Ladeira de Duarte,983,,Maria Goretti,Cunha do Campo,PA,55235-442
+Vitória Barbosa,178.390.256-68,1988-07-24,da-conceicaofelipe@yahoo.com.br,Ladeira da Mata,57,,Dom Silverio,das Neves de Pereira,SC,34154496
+Laura Nunes,245.813.706-71,1957-09-20,rezendepietra@yahoo.com.br,Praça Mariane Castro,6,,Glória,da Mota do Norte,SE,43957319
+Pietra da Rosa,098.175.462-76,1975-11-21,sophie81@pires.net,Condomínio Lorena Freitas,26,,Boa União 1ª Seção,da Mata,SP,11854248
+Ana Beatriz Pires,409.623.871-69,1955-06-09,xmendes@melo.org,Loteamento da Mota,84,,Engenho Nogueira,Duarte,BA,76052-410
+Bianca Sales,902.841.567-01,1964-07-05,raulmoraes@cavalcanti.com,Alameda de da Mota,15,,Acaba Mundo,Cavalcanti,AP,76555-085
+Carlos Eduardo Vieira,961.783.425-19,2005-05-06,apereira@ferreira.org,Avenida Vieira,552,,Olhos D'água,Fogaça,PE,64832-588
+Bruna Correia,380.759.641-01,1953-02-17,gabrielamartins@oliveira.org,Ladeira de Rocha,2,,Juliana,Gomes do Oeste,AC,19132135
+Pedro Lucas Rocha,408.961.572-02,1986-04-06,larissa19@hotmail.com,Ladeira Mirella Lopes,79,,Horto,da Mata,CE,23627-606
+Srta. Laura Azevedo,901.735.486-01,1966-07-06,ada-luz@yahoo.com.br,Alameda da Cruz,42,,Vila Jardim Leblon,da Cruz,GO,13967239
+Srta. Stella Nogueira,537.914.028-97,1941-09-15,pietrada-cruz@das.com,Quadra da Luz,28,,São Salvador,Barbosa das Pedras,RR,1355362
+Sra. Ana Laura Moraes,307.619.542-52,1981-12-13,murilorocha@duarte.org,Loteamento Nascimento,672,,Santa Branca,Silveira das Flores,AC,84722239
+Rafaela Peixoto,269.481.307-04,1973-12-01,isisramos@ig.com.br,Morro de Lopes,5,,Jardim Guanabara,Sales de das Neves,SP,79820-336
+Ana Lívia Dias,072.651.493-43,1930-03-28,bruno92@da.org,Área Calebe Correia,870,,Maria Virgínia,Gomes,MG,9479720
+Alícia Sales,782.543.610-53,2005-02-23,caldeiravitor-hugo@hotmail.com,Ladeira Cauê Moraes,934,,Custodinha,Cardoso,RO,28405608
+Gabriela Souza,631.942.587-37,1997-11-26,lucca02@da.com,Colônia João Gabriel da Mota,55,,Barro Preto,da Luz do Norte,PR,16868-815
+Srta. Larissa Pinto,847.325.069-92,1947-07-02,xfreitas@goncalves.org,Alameda Heloísa da Mota,12,,Aparecida 7ª Seção,Fogaça,PA,63179879
+Sr. Pietro Pires,352.670.198-95,1990-04-13,peixotomaria-sophia@yahoo.com.br,Setor Francisco Ramos,7,,Vila Da Luz,Dias,RR,7869034
+Kamilly Farias,017.658.439-01,1953-11-22,aviana@gomes.com,Esplanada Cunha,35,,Colégio Batista,Porto,GO,73832-992
+Davi Lucca Pereira,078.165.942-67,1946-06-08,barbosalarissa@gmail.com,Parque Isaac da Rosa,98,,Unidas,Viana da Mata,MG,57903677
+Clara Teixeira,056.893.174-20,1984-04-03,rramos@da.org,Travessa de Barros,2,,Vila Antena,Oliveira Verde,TO,48121328
+Pedro Henrique Gomes,154.029.683-06,1960-09-20,santosbenicio@hotmail.com,Setor Bruno Silveira,39,,Sport Club,Ribeiro,PA,04709-136
+Vitor Hugo Moraes,492.738.610-40,1960-10-18,ana-beatriz53@nunes.br,Conjunto de Melo,396,,Pindorama,Monteiro,PR,02948-712
+Melissa Cunha,713.846.925-09,1964-06-17,sophieazevedo@gmail.com,Lago Diogo Duarte,302,,Sagrada Família,Rocha,RN,37691-466
+Srta. Maria Clara Cardoso,430.897.526-38,1978-09-13,xcastro@cardoso.org,Alameda Almeida,59,,Vila Jardim Leblon,da Cruz,TO,18677298
+Sr. Lucas da Conceição,302.641.895-15,1969-10-24,vicentealves@viana.com,Rodovia Rafaela Pereira,94,,São João Batista,Duarte do Sul,PA,72364967
+Maria Eduarda Cardoso,824.135.609-98,1988-06-28,renanmendes@carvalho.com,Recanto Emanuella Moura,14,,Vila Olhos D'água,Mendes da Praia,SP,98636-944
+Rebeca Viana,984.563.012-05,1952-07-28,iangomes@uol.com.br,Trevo Araújo,86,,São Gabriel,Araújo,AC,78606680
+Renan das Neves,790.128.365-30,1987-05-07,martinseduardo@gomes.br,Jardim de Lopes,9,,Vila Tirol,Pinto,PE,94924-744
+Helena Alves,561.908.734-48,1953-06-13,pedro-lucas93@gmail.com,Rua Gonçalves,6,,Vista Do Sol,Cardoso,MA,8850924
+Rafaela Oliveira,435.098.712-60,1936-10-23,kbarbosa@ig.com.br,Trecho Castro,927,,Tirol,Oliveira,RR,91409499
+Davi Lucca Pires,276.159.384-73,1964-12-17,kramos@bol.com.br,Setor Peixoto,343,,Vila Formosa,da Cruz,GO,32729-405
+Renan Nascimento,194.536.072-07,1944-06-22,emanuelda-rosa@ig.com.br,Travessa Viana,77,,Vila Esplanada,Porto Alegre,PB,93712-803
+Sophia Araújo,250.789.416-49,1934-07-02,carvalhojoao-guilherme@lima.com,Favela de Cunha,3,,Palmares,Barros dos Dourados,PB,44192786
+Olivia Nogueira,103.872.459-79,1998-01-05,ribeirothiago@da.org,Campo Samuel da Rocha,87,,Vila Atila De Paiva,Pires Alegre,PR,62169-739
+Valentina Jesus,147.658.203-35,1967-05-04,hvieira@monteiro.com,Viaduto de Fogaça,44,,Vila Madre Gertrudes 2ª Seção,da Paz do Sul,PI,88595240
+Maria Vitória Lima,940.187.635-57,1933-11-06,melissada-conceicao@rodrigues.com,Residencial Freitas,54,,Vila São Paulo,Rodrigues do Campo,GO,66463-850
+Isabella da Rocha,486.932.057-65,1965-10-08,fogacafelipe@uol.com.br,Ladeira da Cruz,52,,Santa Rita,Nascimento do Campo,RR,89593-868
+Sr. Luiz Felipe Moraes,938.470.162-96,1934-12-25,carolineda-mota@araujo.com,Área de Ribeiro,6,,Sport Club,Fernandes,GO,84288827
+Bryan Gonçalves,217.063.549-16,1993-07-08,silvaantonio@yahoo.com.br,Esplanada de Pereira,241,,Das Industrias I,Moura da Mata,MG,60767729
+Davi Lucca Gomes,847.253.016-71,1988-11-04,bcorreia@vieira.com,Colônia Campos,184,,Vila Havaí,da Mata de Ribeiro,MG,90914560
+Srta. Isabella Cardoso,918.567.402-85,1983-09-20,luana20@gmail.com,Campo Lopes,4,,Vila Aeroporto Jaraguá,Silveira do Norte,PR,32339-147
+Pietra da Costa,417.980.635-57,1988-08-23,xda-costa@ig.com.br,Núcleo de Costa,48,,Manacas,Barbosa de Mendes,MT,9525072
+Srta. Kamilly Alves,365.097.842-38,1986-02-10,davi-luizda-mota@ig.com.br,Morro Rodrigo Cavalcanti,8,,Pompéia,Freitas,PR,85536804
+Dr. Raul Almeida,719.462.850-30,1964-06-10,vpinto@gmail.com,Rua de Pires,66,,Vila São Gabriel Jacui,Nascimento,PB,27825-401
+Isis Cardoso,680.432.719-50,2003-03-13,jesusigor@da.com,Vila Viana,25,,Vila Sumaré,Oliveira da Serra,SE,83134-518
+Sr. Pedro Miguel Cardoso,915.730.684-20,1994-12-10,mnovaes@santos.com,Fazenda Daniel Oliveira,65,,São Marcos,Moura do Oeste,PB,28110-921
+Clarice Ramos,435.879.160-39,2005-04-29,araujoana@bol.com.br,Trevo Manuela Correia,7,,Embaúbas,Rocha,PA,97675-926
+Luna Cardoso,467.129.308-04,1979-12-31,isabelazevedo@uol.com.br,Viaduto de Rocha,59,,Centro,Gomes,RS,86798-604
+Heitor Araújo,861.350.249-06,1988-03-04,snovaes@yahoo.com.br,Núcleo de Fernandes,218,,Vila Jardim Alvorada,Souza,AC,72132-926
+Marcos Vinicius Moraes,528.471.936-00,1983-07-16,cavalcantimelissa@uol.com.br,Estrada de Gonçalves,65,,Vila União,da Mota de Castro,PE,21649-525
+Milena da Cunha,625.904.381-33,1961-02-18,maria-alicecosta@ribeiro.com,Chácara Gonçalves,505,,Vila Esplanada,da Costa da Prata,SE,53542048
+Eduarda Peixoto,907.815.234-60,1971-12-23,enzo48@pires.org,Parque de Jesus,9,,Bonsucesso,da Cunha do Galho,SC,17862-075
+Davi Luiz Ferreira,298.706.451-94,1994-08-16,jrodrigues@uol.com.br,Passarela de Cardoso,50,,Jardim Leblon,Pereira,RS,98851289
+Guilherme Almeida,619.754.283-82,1947-06-17,limaenzo@rodrigues.com,Setor de Farias,22,,Parque São José,Nogueira,RJ,92468609
+Gustavo da Luz,469.807.215-85,1978-01-27,marina56@hotmail.com,Sítio de Cardoso,88,,Dom Cabral,Araújo,DF,21206-733
+Dr. Juan Aragão,245.796.310-99,1940-03-11,cdas-neves@melo.br,Distrito Vieira,76,,Cenaculo,Ferreira,PE,17047532
+Heitor Moraes,056.314.789-00,1979-06-08,marcos-vinicius89@yahoo.com.br,Residencial de Costela,15,,Penha,Rocha do Galho,MG,17428954
+Dra. Daniela Moreira,619.053.472-43,1958-04-24,joao-gabrielpeixoto@bol.com.br,Passarela de Lopes,60,,Maria Goretti,Nunes,AP,82912138
+Isadora Caldeira,057.319.462-99,1993-03-08,lopescalebe@hotmail.com,Trecho Gomes,93,,Frei Leopoldo,Souza Paulista,PI,34294-677
+Maria Sophia Souza,763.589.241-09,2006-11-07,nataliada-mata@das.com,Lagoa de Oliveira,77,,Juliana,Lima,GO,95817149
+Dr. Henrique Nascimento,231.804.975-05,1965-05-14,fvieira@yahoo.com.br,Vila de Caldeira,56,,Vila Novo São Lucas,Monteiro de da Conceição,SC,20000967
+Bianca Aragão,598.410.327-32,2008-04-15,sophiepeixoto@hotmail.com,Travessa de Porto,89,,Bonsucesso,Castro,GO,26590373
+Bryan da Rosa,641.029.587-11,1997-01-09,joana86@hotmail.com,Jardim Caroline Moura,500,,Dom Bosco,Rezende de da Luz,CE,38819375
+Maria Julia Santos,829.546.073-00,1966-11-30,luna87@bol.com.br,Sítio Nunes,32,,Vila Santa Monica 1ª Seção,Jesus,GO,87699784
+Gustavo Henrique da Costa,192.387.046-78,1940-09-03,danielada-cruz@campos.com,Conjunto de Silveira,1,,Caiçaras,Moreira,PR,30239393
+Alexandre Sales,876.093.521-95,1979-06-06,xcardoso@uol.com.br,Distrito Farias,42,,Vila Independencia 3ª Seção,Peixoto das Pedras,RJ,86929208
+Bernardo Moreira,962.071.345-16,1982-01-31,malmeida@hotmail.com,Vereda de Almeida,660,,Barão Homem De Melo 2ª Seção,Ribeiro Grande,MG,38577483
+Dr. Luiz Fernando Moraes,279.563.804-56,1985-08-18,gabriel96@da.br,Trevo Gustavo Ramos,83,,Olaria,da Costa de Minas,AL,24441-554
+Heloísa Martins,692.458.710-02,1942-03-11,rafaela14@bol.com.br,Recanto Júlia Fernandes,9,,Nazare,da Costa,RO,68181-786
+João Felipe Correia,514.068.927-85,1965-02-17,kribeiro@monteiro.br,Vila Martins,92,,São Jorge 2ª Seção,Almeida da Mata,AL,24244-551
+Natália Ferreira,970.351.264-06,1979-11-06,ysantos@ig.com.br,Trevo Luigi Campos,38,,Nova Esperança,Lima dos Dourados,MS,10960551
+Benjamin Fernandes,905.372.861-95,2002-10-06,zcorreia@rocha.br,Quadra Jesus,54,,Castanheira,da Costa da Serra,PB,06348-274
+Davi Lucas Moura,952.380.164-33,1997-10-01,uoliveira@farias.br,Praça da Mata,4,,Coração De Jesus,Alves,PE,21851-088
+Bruno da Rosa,075.139.824-14,1977-10-29,mendessophia@da.com,Parque de Melo,56,,Vila Nossa Senhora Do Rosário,Santos das Flores,MG,6669758
+Enzo Cunha,836.917.042-04,1969-03-22,novaesmariana@oliveira.br,Condomínio Ana Julia Cardoso,19,,Camponesa 2ª Seção,Jesus,PA,16040-567
+Sra. Bárbara Silva,694.813.250-24,2004-10-09,alexiapinto@alves.br,Fazenda Pietra Cunha,18,,Cinquentenário,Sales Grande,DF,92529-634
+Levi Cardoso,176.893.045-75,1984-05-30,guilherme98@da.org,Largo Costa,81,,Vila Da Luz,Lopes,PI,66683021
+Raul Freitas,536.941.287-19,1987-02-27,wnunes@uol.com.br,Estação de Gonçalves,17,,Vila Antena Montanhês,da Rocha de Minas,AM,30349245
+Sra. Stephany Costa,651.034.927-25,1998-07-23,fariasmarcela@aragao.br,Parque Cavalcanti,6,,Lindéia,Gonçalves,RS,27551-668
+Dr. Vitor Gabriel Peixoto,795.320.618-86,1935-12-31,wda-conceicao@yahoo.com.br,Lagoa Dias,88,,Solimoes,Teixeira de Dias,PA,92775580
+Sr. Arthur da Paz,415.780.623-90,1974-07-09,tda-cunha@castro.com,Alameda João Felipe da Costa,249,,Varzea Da Palma,Alves de Moreira,RR,67924877
+Noah Peixoto,936.851.702-95,1945-05-07,pmoraes@carvalho.com,Residencial de Carvalho,50,,Anchieta,Vieira da Mata,MA,15103192
+Francisco Monteiro,427.310.685-07,1948-10-04,jesuscalebe@goncalves.br,Esplanada Dias,595,,Boa Esperança,Barros dos Dourados,AL,89508579
+Luiz Felipe da Costa,402.569.137-06,1966-12-17,lorena27@silva.br,Fazenda de Almeida,8,,Bonsucesso,Nascimento,AP,92899546
+Fernando Ferreira,256.037.184-71,1942-06-08,npeixoto@gmail.com,Condomínio de Caldeira,30,,Ouro Preto,Alves da Serra,PA,17751833
+Laís Vieira,568.034.192-15,1979-09-25,isaacrodrigues@silva.br,Feira de Caldeira,15,,Vila São Gabriel Jacui,Correia de Goiás,AM,87491034
+Maysa Farias,851.940.623-89,1977-01-18,peixotodaniela@bol.com.br,Viela de da Conceição,639,,Vila Satélite,Lima,RJ,27668-108
+Alexandre da Mota,093.862.751-12,1974-07-27,araujovitor-hugo@hotmail.com,Praia de Aragão,64,,Cachoeirinha,da Rosa,PB,62581203
+Emanuella Gomes,510.738.492-79,1975-02-07,psilva@bol.com.br,Quadra de Campos,78,,Palmeiras,Novaes de Minas,RS,49179725
+Stella Campos,835.961.240-42,1965-07-20,lucas-gabriel47@uol.com.br,Praça Pereira,99,,Nova Floresta,Lopes do Campo,AL,87508005
+João Pedro Costa,516.923.807-02,1951-06-18,da-pazcatarina@ferreira.org,Núcleo de da Cunha,59,,Camponesa 1ª Seção,Cardoso das Pedras,RR,59915179
+Lara da Paz,645.193.728-28,1956-05-29,arthurcosta@yahoo.com.br,Vale Ryan das Neves,4,,Estrela Do Oriente,Farias de Lopes,ES,04851-972
+Isabella Porto,720.156.948-11,1993-12-01,bcorreia@da.com,Condomínio de Gomes,970,,Vila Jardim Leblon,da Rosa,PA,82352951
+Manuela Ferreira,421.509.376-70,1937-11-04,garagao@monteiro.br,Favela de Barros,73,,Mangabeiras,Castro de Duarte,MS,22590-607
+Dr. Alexandre Cavalcanti,175.380.649-66,1969-09-11,luiz-henrique30@dias.net,Estação Thomas Gonçalves,83,,Vila Nova Gameleira 1ª Seção,Gonçalves do Norte,MG,83453956
+Sabrina Porto,708.932.615-21,1979-10-25,scarvalho@hotmail.com,Ladeira Davi Oliveira,70,,Santa Lúcia,Moreira,GO,89952280
+Rodrigo Jesus,819.364.720-31,1960-08-05,camila74@lima.br,Aeroporto Silveira,85,,Acaiaca,Silveira Grande,PB,87338436
+Stella Fogaça,475.083.129-88,1958-10-31,isisribeiro@ig.com.br,Sítio Maria Cecília Aragão,50,,Etelvina Carneiro,Moreira,TO,18745037
+Dra. Ana Júlia Dias,012.654.793-99,1958-05-19,joana11@mendes.net,Loteamento Nunes,24,,Santa Terezinha,Rocha,ES,72641161
+Gabrielly Rezende,491.732.680-03,1996-08-25,ana-julia05@yahoo.com.br,Lago Freitas,36,,Sion,da Rocha,GO,82047-685
+Emanuelly Oliveira,871.062.459-76,1967-03-28,da-luznatalia@bol.com.br,Praça de Cunha,82,,São Jorge 2ª Seção,das Neves do Campo,PE,08888-946
+Igor Silva,167.925.483-91,1983-10-28,udas-neves@ig.com.br,Via Thomas Barros,7,,Gutierrez,Lopes de Ribeiro,AC,22117639
+Dr. Kevin Martins,279.431.805-50,1933-02-26,maria-alice17@yahoo.com.br,Ladeira de Freitas,43,,Vitoria Da Conquista,Duarte,RO,76846954
+Ana Carolina Nogueira,234.567.819-46,1995-01-30,cnunes@costela.net,Lago Teixeira,1,,Santa Rosa,Porto,SC,69049-551
+Dr. Pietro Nunes,342.587.901-41,2003-05-01,csouza@silveira.br,Travessa Gomes,10,,Bacurau,Freitas de Goiás,AM,48417-453
+Dra. Yasmin Carvalho,096.821.437-13,1967-10-18,eloah76@rezende.br,Viaduto Maria Julia Castro,13,,Vila Independencia 1ª Seção,da Costa,PR,88809-164
+Ana Luiza da Rocha,491.825.703-88,1946-10-25,alvesluana@bol.com.br,Setor de Ribeiro,2,,Vila Formosa,Barbosa de Minas,MS,25039716
+Carolina Azevedo,635.824.907-00,1986-09-28,sophie57@uol.com.br,Jardim Nogueira,73,,Vila Coqueiral,Moura Verde,TO,95938-707
+Theo Cunha,275.138.609-12,1974-08-10,das-nevesmanuela@bol.com.br,Chácara de da Rocha,9,,Nova Vista,da Rosa do Campo,RR,41445-501
+Alice Pinto,751.029.643-99,1978-07-15,freitasluiz-gustavo@uol.com.br,Esplanada de Melo,375,,Santa Cecilia,Almeida,AP,50542053
+Dr. Davi Lucca Nunes,562.903.417-07,1960-11-03,mrocha@oliveira.com,Loteamento de Azevedo,115,,Cachoeirinha,Cavalcanti,AC,32778325
+Dr. Marcos Vinicius Dias,409.381.276-40,1937-10-24,lcardoso@duarte.com,Colônia de Nogueira,198,,Tirol,Oliveira,DF,47825258
+Sr. Calebe Nunes,682.031.597-02,1995-01-14,castroana-clara@yahoo.com.br,Conjunto João Miguel Ferreira,6,,Vila Califórnia,Barros,PI,40347-141
+Melissa da Cruz,693.701.425-25,1995-06-13,anthony19@gmail.com,Feira Raul Fogaça,999,,Graça,Campos das Flores,PA,93134-828
+Lorenzo Costela,023.156.987-40,1988-02-06,pmoreira@uol.com.br,Morro Davi Luiz Souza,5,,Maria Helena,Almeida das Flores,PI,17606-381
+Isis Silveira,859.671.423-55,1971-01-21,dfogaca@fogaca.com,Passarela Fernandes,81,,Conjunto Bonsucesso,Ferreira da Prata,PR,00350-942
+Sophie Oliveira,786.210.593-12,1955-04-10,teixeirajoao-felipe@gmail.com,Residencial Viana,68,,Granja De Freitas,Viana,BA,46999917
+Dr. Davi Alves,961.035.784-93,2003-04-26,da-rosagustavo-henrique@hotmail.com,Vale Daniel da Cunha,70,,Santa Cecilia,Gomes da Mata,AC,45386391
+Bryan Pereira,835.014.679-66,1974-12-08,silvayago@cavalcanti.com,Recanto Rodrigues,44,,Vila Ouro Minas,Carvalho,PR,13924-912
+Vitor Gabriel Teixeira,725.809.361-30,1993-08-05,da-matavitoria@ig.com.br,Estação Pedro Ramos,5,,Jonas Veiga,da Cunha da Mata,PR,22027-685
+Rafaela da Luz,816.425.079-11,1934-01-26,qcosta@novaes.com,Colônia Cardoso,68,,São Damião,Silva dos Dourados,SC,75392293
+Maria Eduarda da Luz,589.403.617-84,1934-10-20,camilacarvalho@lopes.br,Recanto de Nascimento,56,,Vila Pinho,da Mata,CE,72733900
+Sr. Thiago Mendes,897.213.056-77,1945-03-01,csilveira@ig.com.br,Colônia de Rezende,95,,Xodo-Marize,da Paz Grande,GO,40157-622
+Maria Cardoso,582.974.036-29,1931-03-30,ferreiravalentina@yahoo.com.br,Praça Raquel Correia,24,,Ernesto Nascimento,Cardoso,PA,14898-763
+Dra. Maria da Costa,071.238.659-95,1933-08-10,xjesus@das.br,Pátio de Lopes,68,,Castanheira,Azevedo de Minas,MS,72266091
+Dr. Luigi Teixeira,352.184.670-90,1957-01-15,ylima@araujo.com,Viela Nicolas Cunha,37,,Vila Maria,Vieira de Barros,AC,47586830
+Natália da Luz,046.723.895-29,1990-02-06,almeidaisabelly@porto.br,Quadra de Martins,816,,Guarani,da Paz das Flores,AL,84160-346
+Vicente Dias,123.094.786-87,1969-03-18,ramoslais@hotmail.com,Loteamento Sales,488,,Urca,Souza da Prata,AC,72106-992
+Sarah Monteiro,729.403.815-50,1970-09-12,sofiapeixoto@martins.com,Fazenda Cunha,4,,Monte São José,Lima do Galho,RR,32072723
+Bruna Oliveira,402.968.315-06,1963-12-31,otaviopinto@farias.net,Rodovia Nascimento,324,,Vila Dos Anjos,Cardoso,DF,55505103
+Cauã Peixoto,648.590.731-93,1996-10-15,camposrafaela@moraes.br,Trevo de Caldeira,62,,Camponesa 1ª Seção,Castro do Galho,GO,35521369
+Lara Caldeira,386.917.205-30,1999-07-07,calebe58@bol.com.br,Setor de Duarte,62,,Miramar,Peixoto,PI,52510024
+Agatha da Rocha,806.193.475-20,1935-07-13,fariasluiz-felipe@yahoo.com.br,Avenida Rodrigues,73,,Varzea Da Palma,Ribeiro das Pedras,RJ,4217939
+Bárbara Souza,349.675.180-01,1973-11-28,da-luzeduarda@campos.br,Trevo Maria Eduarda Aragão,5,,Bandeirantes,Vieira,MG,24104-650
+Beatriz Lima,164.238.579-46,1970-08-15,marianemendes@silveira.org,Vereda de Novaes,3,,Lagoinha Leblon,Teixeira,ES,26039379
+João Miguel Gonçalves,289.701.345-14,1941-04-28,tazevedo@da.net,Vila Alícia Santos,4,,Vila Havaí,Aragão,AP,69225721
+Letícia Peixoto,965.478.120-49,1938-11-25,qporto@uol.com.br,Residencial Cardoso,56,,Vila Real 1ª Seção,Teixeira,ES,98796542
+João Cardoso,735.861.924-28,1989-09-26,joliveira@hotmail.com,Trevo Rodrigues,3,,Vila São Rafael,Melo,RO,54571737
+Alice Freitas,217.458.930-32,1939-01-02,lorena82@da.br,Esplanada Emilly Cunha,72,,São Bernardo,Costela,RN,74224881
+Dr. Bryan Barros,403.985.672-47,1937-04-12,luiz-otaviosouza@almeida.net,Viaduto de Silva,829,,Vila Aeroporto Jaraguá,Alves Paulista,PE,4812384
+Dra. Ana Clara Costela,901.453.762-06,2003-10-14,daniel36@rocha.com,Recanto Stella Almeida,73,,Vila Nova Gameleira 1ª Seção,Jesus,RS,2099306
+Lívia Novaes,654.380.921-33,1934-08-22,sda-cruz@viana.com,Praia Emanuel Lima,17,,Vila Nova Cachoeirinha 3ª Seção,Cunha do Norte,AM,83593-425
+Maria Vitória Castro,258.731.690-12,1962-10-18,daniela41@hotmail.com,Estação Catarina Vieira,84,,Vila Das Oliveiras,Costa do Sul,RN,73244706
+Clara Oliveira,890.723.615-12,1953-05-03,rezendefrancisco@monteiro.org,Parque Dias,80,,Nossa Senhora Aparecida,Nunes,PR,53907-813
+Luana Correia,480.312.756-53,1942-05-01,fariaskaique@gmail.com,Vila de Fernandes,6,,Itapoa,Peixoto,AM,58173444
+Laís Ramos,568.091.324-06,1984-01-14,joao-guilherme76@aragao.com,Via Jesus,62,,Vila Da Luz,Martins,AM,80864377
+Dra. Helena Cardoso,320.917.654-06,1977-10-16,antoniogomes@nunes.org,Lago de Melo,39,,Vila Ipiranga,Mendes da Mata,DF,39331-262
+Lucas Ribeiro,801.243.697-31,1930-11-17,gabriela31@correia.net,Lagoa Fogaça,121,,Planalto,Almeida,CE,38881-625
+Daniel Campos,375.196.804-01,1969-05-03,isabelda-costa@uol.com.br,Estrada Ana Julia da Costa,14,,Castanheira,Monteiro da Serra,MS,76869-070
+Sr. André Fogaça,645.789.210-85,1941-03-14,murilofarias@uol.com.br,Parque de Ribeiro,90,,Vila Boa Vista,Pinto do Galho,SE,24433133
+Pedro Miguel Caldeira,261.790.384-22,1962-07-23,davi-luiz71@da.org,Recanto Mendes,78,,Alto Dos Pinheiros,Nogueira,AC,99596016
+Alícia Viana,148.290.563-98,1952-03-14,rmelo@gmail.com,Trecho Fernandes,237,,Minas Brasil,Jesus da Prata,BA,46904489
+Rafaela Castro,261.958.734-46,2007-05-10,pjesus@cunha.br,Largo da Mata,94,,Monsenhor Messias,Dias,MG,69238-260
+Samuel Novaes,304.572.869-38,1933-04-17,yagocunha@melo.com,Recanto Maria Alice da Costa,18,,Castelo,Nunes Paulista,PA,20952775
+Vitória Costa,302.561.498-60,1931-07-05,moreirajuan@da.com,Trecho Luiza Cardoso,12,,Alto Vera Cruz,Duarte da Praia,PA,60418404
+Bryan Peixoto,856.721.309-68,2001-11-17,ccastro@bol.com.br,Lagoa Ana da Cruz,29,,Novo Glória,Moreira de Minas,RR,54638787
+Dr. Luiz Miguel Farias,170.362.498-03,1984-02-03,cunhasophia@porto.br,Distrito Rocha,234,,Conjunto Bonsucesso,Barros,PA,13507059
+Henrique Lima,620.783.594-83,1943-01-13,da-matanatalia@ig.com.br,Trevo de Novaes,30,,Paulo Vi,Sales do Sul,RN,07040-553
+Sr. João Pedro da Costa,724.590.613-07,1989-09-07,yagofogaca@uol.com.br,Largo Benício Pereira,72,,Cônego Pinheiro 2ª Seção,Oliveira,BA,16890385
+Anthony Ferreira,167.093.458-66,1998-04-09,monteiroana-sophia@bol.com.br,Chácara Fernanda Cunha,8,,Mantiqueira,Caldeira dos Dourados,PR,396141
+Pietra Silveira,105.378.462-71,1930-10-08,estherfogaca@ig.com.br,Praia Rodrigo Moraes,88,,Coração Eucarístico,Santos,RR,62724-007
+Sra. Raquel Gomes,142.086.953-15,1932-01-07,isissilva@rodrigues.br,Colônia de Nunes,99,,Alpes,Rocha,BA,81992922
+Marina Melo,416.093.827-22,1965-04-15,xmendes@barbosa.org,Campo de Teixeira,37,,Vila União,Cardoso,SC,26396462
+Pedro Azevedo,610.278.593-21,1947-10-26,vitoriacostela@gomes.br,Campo Gomes,2,,Vila Madre Gertrudes 2ª Seção,Campos,PB,58304-914
+Samuel da Cruz,804.276.159-76,1968-01-19,alicia45@bol.com.br,Lagoa Leandro Novaes,56,,Sion,Alves,SP,87579673
+Ian da Paz,240.579.361-06,1963-05-18,alexandre62@gmail.com,Viaduto da Luz,38,,Conjunto Providencia,Ferreira da Praia,MS,24162465
+Miguel Almeida,837.516.094-66,1945-01-11,anovaes@da.com,Vereda Carlos Eduardo Campos,61,,Vila Real 1ª Seção,Rocha,MA,11862073
+Isis Pires,642.379.085-00,1998-02-25,jmonteiro@da.com,Loteamento Brenda Fogaça,28,,Universo,Rezende,PB,30692069
+Luiz Felipe Rocha,713.058.462-90,1973-07-17,njesus@cardoso.com,Viela Pires,9,,Vila Nova Cachoeirinha 1ª Seção,da Mota,ES,43373818
+Isabella Gomes,846.517.390-75,1984-12-23,souzanathan@bol.com.br,Favela de Santos,5,,Vila Nova,Nascimento das Flores,PI,78507-121
+Otávio Ferreira,543.601.729-07,1994-12-26,barbosalucas@gmail.com,Trecho da Mata,89,,Virgínia,Sales,SP,62619-013
+Rafael da Rosa,105.627.834-07,2003-08-18,nogueiramirella@costa.com,Núcleo Beatriz Fernandes,47,,Ouro Minas,Barros,AC,97724270
+Pedro Lucas da Cunha,763.895.142-55,1979-07-16,diogoda-mata@da.com,Feira Igor Moreira,42,,Pirineus,Rocha,PR,90690-493
+Ana Laura da Luz,495.807.123-79,1956-04-07,luna10@moura.com,Núcleo Cunha,27,,Tupi A,Rocha Verde,MA,36307-746
+Emilly Ribeiro,460.157.928-76,1947-04-13,limaluiz-felipe@freitas.net,Recanto Gabriela Porto,34,,Vila Antena Montanhês,Barbosa,RN,22629-263
+Ana Teixeira,624.753.180-07,1958-04-19,isis61@bol.com.br,Condomínio Igor Souza,17,,Nova Vista,da Paz,RO,91579947
+Srta. Laura da Paz,495.678.132-64,1938-02-18,eloah06@moreira.org,Colônia Farias,9,,Paquetá,Mendes Alegre,MA,40430-374
+Dr. João Miguel Barbosa,052.647.391-61,1969-12-10,theofreitas@ig.com.br,Viela Gabriel Pinto,71,,Centro,Cavalcanti,SC,98699-618
+Ana Julia Fernandes,715.062.438-35,2002-07-28,carvalhonathan@ferreira.org,Jardim de Fogaça,6,,Mantiqueira,Nogueira do Sul,SP,70768850
+Lavínia Gonçalves,621.957.834-19,1932-03-11,gomesclara@pereira.br,Viela Amanda Moraes,62,,Vila Maria,Carvalho de Martins,PR,60734-190
+Srta. Alexia Oliveira,902.135.768-21,1936-02-12,lucasnogueira@gmail.com,Rua Guilherme Souza,99,,Ouro Preto,Lima,MG,6205521
+Kamilly Rodrigues,845.379.162-73,2006-10-28,rda-rosa@bol.com.br,Favela Ana Laura da Cunha,43,,Maria Tereza,Cardoso de Sales,TO,93108259
+Kamilly Farias,287.035.169-03,1993-05-31,joanalima@bol.com.br,Estrada Fernandes,59,,Juliana,Monteiro,MS,43571791
+Ana Vitória Rodrigues,634.702.958-83,1987-12-15,goncalvesfelipe@vieira.com,Aeroporto Vitória da Paz,852,,Lagoinha Leblon,Alves do Galho,RJ,02220-617
+Sabrina Fernandes,061.927.438-78,1955-10-26,moraesfrancisco@yahoo.com.br,Vila Isaac Cunha,14,,Vila Santo Antônio,Martins do Galho,AC,87436187
+Thomas Gomes,701.935.862-40,1931-01-04,yasmin14@rocha.com,Sítio Igor Carvalho,96,,Vila Tirol,Fernandes da Prata,BA,51227030
+Theo Nascimento,298.475.013-60,1958-03-10,joao-pedro62@ramos.com,Colônia de Pires,23,,Cdi Jatoba,Lopes,MA,76085625
+Lavínia Barbosa,431.286.079-31,2008-01-28,rafael61@da.br,Rua de da Cruz,486,,Vila São Gabriel Jacui,Ramos de Dias,SP,76730252
+Julia Azevedo,247.081.953-97,2002-03-07,pmoraes@gmail.com,Residencial Caldeira,44,,Manacas,Melo da Praia,PB,24279-706
+Juan da Cruz,647.839.510-39,1976-01-29,noahsouza@pinto.br,Estrada Gonçalves,35,,Aarão Reis,Cardoso Grande,PA,34588-335
+Marina Cavalcanti,216.438.970-04,1934-11-14,ana34@hotmail.com,Trecho de Nunes,220,,Petropolis,Vieira,PI,20673-767
+Nicole Caldeira,014.673.958-20,1958-07-11,kda-luz@alves.org,Conjunto de Freitas,69,,Vila Betânia,Pires,SC,38223334
+Benício Mendes,012.783.549-05,2006-01-24,ana-liviasales@uol.com.br,Esplanada Emanuella da Rocha,3,,Leticia,Monteiro,SP,2220909
+Luigi da Mata,549.783.260-10,2005-11-19,dribeiro@da.br,Pátio Costa,5,,Vila Nova Gameleira 3ª Seção,Nascimento,PA,23226012
+Sabrina Rocha,345.672.108-08,2003-06-17,murilosilveira@ig.com.br,Residencial Ana Luiza Correia,5,,São Vicente,Gonçalves de Silva,DF,16504112
+Dra. Camila Moraes,429.386.571-37,1930-10-23,moreiraalexandre@yahoo.com.br,Parque de Freitas,571,,União,Martins dos Dourados,ES,63283427
+Alexia Porto,408.735.196-39,1941-04-13,uda-luz@araujo.com,Praia Julia Gomes,138,,São Gabriel,Almeida,MG,14945-610
+Gabriel Pinto,360.987.521-68,1938-09-23,ana-beatrizribeiro@hotmail.com,Setor Barbosa,31,,Solar Do Barreiro,Melo,RR,23284-078
+Caroline Lopes,725.948.013-05,1940-05-11,caroline90@goncalves.org,Alameda da Costa,874,,Conjunto Taquaril,Costa da Prata,PA,60321910
+Carlos Eduardo Barros,357.248.901-60,1961-03-31,sofia91@porto.net,Via de Barbosa,356,,Vila Cemig,Barbosa,ES,41776412
+Amanda Dias,748.156.309-84,1983-08-25,yago58@da.net,Morro de Peixoto,1,,Marmiteiros,Souza do Campo,AM,52306205
+Sra. Maria da Cunha,495.731.028-97,2003-12-10,da-pazmaria-eduarda@vieira.com,Conjunto da Luz,26,,Santa Monica,Barbosa da Mata,MA,48653-526
+Dra. Heloísa da Cunha,395.740.682-00,1992-05-31,oliveiracatarina@hotmail.com,Área Raul da Cunha,60,,São Jorge 3ª Seção,Jesus Verde,PE,78617116
+Emanuella Lopes,746.518.230-17,1979-01-19,fnascimento@yahoo.com.br,Pátio Monteiro,942,,Vila Nova,Rezende de Silveira,RN,85054441
+Luiz Otávio Lopes,524.067.931-25,1989-06-08,emanuellaviana@uol.com.br,Jardim Benjamin Oliveira,437,,Minas Caixa,Rezende de Ramos,SP,80238-854
+Sabrina Moura,754.386.091-01,1997-10-08,gcunha@uol.com.br,Estação Ribeiro,3,,Ribeiro De Abreu,Nogueira,RO,54960-429
+Luigi da Luz,517.086.429-94,2001-09-15,agathamoura@rocha.br,Largo Lima,68,,Brasil Industrial,Rocha,RN,88458073
+Brenda Barbosa,839.471.025-50,1931-12-02,xteixeira@caldeira.com,Condomínio Maria Eduarda Mendes,12,,Vila Antena,Lima da Serra,CE,31793833
+Arthur da Cruz,923.467.058-29,1942-05-04,mouragustavo-henrique@yahoo.com.br,Vereda Araújo,13,,Santa Amelia,Teixeira da Prata,SE,58229-453
+Luiza da Cunha,965.803.247-83,1986-04-20,xcampos@ig.com.br,Setor Teixeira,66,,Estoril,Oliveira de Goiás,SC,46764362
+Otávio Moreira,682.137.059-12,1942-11-12,da-rochajoao-lucas@ig.com.br,Conjunto João Lucas Lima,30,,Corumbiara,Silva,RJ,67761-469
+Natália Cardoso,093.715.264-16,2000-03-30,daniel01@jesus.com,Alameda da Costa,632,,Caiçaras,Mendes,SP,27105-679
+Francisco Nascimento,851.703.642-53,2004-11-12,correialorenzo@martins.br,Sítio de da Rosa,79,,Monte Azul,Rocha de Goiás,PB,10893-326
+Caio da Cruz,840.961.753-66,1955-09-25,xmartins@yahoo.com.br,Passarela de Castro,490,,Vila Oeste,Pereira,PA,98898-837
+Valentina da Conceição,369.572.041-70,1984-11-01,emanuellapires@cunha.com,Trecho de Ribeiro,393,,Pedreira Padro Lopes,Moura,RJ,07783-148
+Leandro Silveira,658.703.924-38,1951-01-01,bianca18@farias.br,Distrito de Silva,500,,Flavio Marques Lisboa,Correia dos Dourados,BA,18291355
+Paulo da Rocha,107.463.829-87,1938-08-23,barroseloah@uol.com.br,Quadra de da Conceição,4,,Alpes,Mendes da Serra,MS,29535-455
+Ana Luiza das Neves,914.502.376-06,1939-01-02,rcampos@gmail.com,Via Nicolas Peixoto,24,,Coração Eucarístico,Lopes do Sul,PA,61665012
+Thomas da Mata,746.129.503-99,1948-04-26,csilva@hotmail.com,Morro Heitor Cunha,53,,Santana Do Cafezal,Pereira,MT,8648562
+Isis Porto,810.459.327-79,1996-12-22,cardosoleandro@cavalcanti.org,Lago Silveira,1,,Planalto,da Luz,RN,44407379
+Maria Vitória Ferreira,916.587.234-73,1938-05-16,pintoemilly@barros.com,Alameda de Silveira,448,,Cdi Jatoba,Araújo,SE,61615330
+Leonardo Carvalho,294.651.730-61,1937-08-30,vmonteiro@yahoo.com.br,Vereda Matheus Rodrigues,5,,Alpes,Rodrigues,RJ,73255905
+Ana Laura Teixeira,913.054.726-16,1999-06-12,evelyn61@ig.com.br,Vale de da Conceição,49,,Conjunto São Francisco De Assis,Santos de Jesus,PI,62383-110
+Guilherme Souza,629.058.347-65,1973-08-25,marianabarros@gmail.com,Rodovia de Sales,92,,Outro,Correia Grande,RO,35215-111
+Lucas Farias,947.158.362-46,1967-04-30,agatha11@lima.br,Sítio de Ribeiro,760,,Vila Antena,Ramos Verde,TO,73450-921
+Pedro Miguel Rodrigues,723.806.159-77,1955-08-14,urocha@lopes.com,Praça Nogueira,8,,Jardim Atlântico,da Rocha do Norte,RS,69566-134
+Maria Fernanda Costela,814.296.053-24,1982-01-14,leandro90@da.br,Residencial Emanuella Fogaça,74,,Ápia,Pereira,BA,69603237
+Sr. Alexandre Moreira,148.532.079-88,1951-08-01,rsantos@sales.org,Rodovia de Porto,900,,Jardim Atlântico,Cardoso,PA,06364-746
+Ana Clara Rodrigues,024.638.759-92,1964-07-24,nicolas37@da.net,Setor Carvalho,74,,Vila Nova Cachoeirinha 1ª Seção,Vieira dos Dourados,PA,89450565
+Nina Gonçalves,167.594.320-61,1946-06-01,xcunha@gmail.com,Quadra João Carvalho,1,,Tirol,Aragão de Minas,RN,02541-076
+Lorena Jesus,309.785.462-29,1932-08-21,maria-clara10@costa.com,Lagoa de da Cruz,5,,Tres Marias,Almeida,RO,4555359
+Rebeca Fernandes,142.865.930-70,1983-12-01,hcorreia@bol.com.br,Sítio Augusto da Mota,22,,Cruzeiro,Cunha dos Dourados,RJ,80469052
+Diego Sales,901.286.374-04,1955-04-24,lauramelo@yahoo.com.br,Quadra Agatha das Neves,9,,Vila Nova Cachoeirinha 3ª Seção,Cardoso de Goiás,SC,5773726
+Danilo Jesus,257.891.463-09,1981-12-23,novaescarlos-eduardo@novaes.br,Vila Fernandes,39,,Santa Tereza,Cunha da Prata,ES,3120901
+Sr. Diego Melo,386.142.957-82,1930-07-27,rafaelcostela@carvalho.br,Largo Santos,3,,Vila Jardim Montanhes,Correia Verde,BA,78110625
+Anthony Alves,967.834.152-28,1999-04-16,almeidanicole@porto.com,Quadra Luiza da Paz,6,,Barão Homem De Melo 3ª Seção,Ribeiro,PE,30428058
+Henrique Moreira,806.245.197-67,1957-05-15,aliceda-mata@uol.com.br,Avenida Maria Cecília Pinto,88,,Custodinha,Vieira de Minas,MT,66731-223
+Paulo Fernandes,659.127.380-86,1995-11-10,dnogueira@ig.com.br,Trevo de Costa,924,,Vista Alegre,da Rosa,MG,29475487
+Bianca Novaes,690.215.843-60,2004-04-10,teixeirapietra@yahoo.com.br,Residencial de Carvalho,46,,União,Rodrigues dos Dourados,ES,28038579
+Sarah Carvalho,129.580.367-40,1984-07-14,laura74@nascimento.br,Loteamento da Conceição,91,,Santa Maria,Nunes de da Conceição,SP,74803-686
+Maysa Porto,125.347.860-08,1984-10-27,zda-rocha@yahoo.com.br,Rodovia Nascimento,70,,Vitoria Da Conquista,Duarte,MA,6239411
+Kamilly Barros,170.639.542-61,1953-03-19,da-cruzmaria-eduarda@castro.org,Vila de Azevedo,14,,São Marcos,Araújo Grande,AC,56066637
+Gustavo Henrique Mendes,306.194.758-20,1965-02-26,duarteluiz-fernando@uol.com.br,Estrada de Barros,12,,Monte Azul,Rocha,PI,29913676
+Isabel Rodrigues,791.635.402-07,1985-03-19,ysilveira@bol.com.br,Passarela Agatha Pereira,69,,Santa Branca,Novaes,MS,98178-957
+Yuri Castro,781.524.930-23,1976-02-27,murilovieira@fogaca.br,Núcleo Ana Luiza Jesus,487,,Vila Madre Gertrudes 2ª Seção,Melo do Campo,CE,39704-529
+Carolina da Rosa,379.154.806-93,1963-01-15,joao-guilhermefarias@bol.com.br,Alameda de Rocha,28,,Barão Homem De Melo 3ª Seção,da Cunha de da Rosa,AM,89316-444
+Pietra Correia,076.852.419-94,1968-07-03,alexandrecorreia@rodrigues.com,Esplanada Juliana Castro,9,,Belvedere,das Neves,RR,08065-420
+Pedro Lopes,016.423.857-35,1949-09-23,cauemoraes@ig.com.br,Aeroporto Luiz Gustavo Azevedo,86,,Vila Copacabana,Mendes,DF,52689430
+Theo Araújo,432.958.710-60,1985-08-30,silveirajulia@ramos.com,Campo de Moura,440,,Serra Do Curral,Freitas,MS,12048138
+Rafael da Cruz,873.254.106-62,1989-10-05,maria-clara80@bol.com.br,Avenida Kamilly da Rocha,58,,Vila Real 1ª Seção,Correia da Mata,BA,59568-761
+Thales Nunes,547.609.321-43,1992-08-13,salesana-laura@gmail.com,Estação Azevedo,66,,Rio Branco,Caldeira,PE,21378012
+João da Luz,019.672.534-80,1956-02-22,igor35@hotmail.com,Recanto Nicolas da Mota,8,,Conjunto Jardim Filadélfia,Martins das Flores,MS,18229544
+Benício Gomes,435.026.789-10,1982-06-26,da-rosaeduarda@bol.com.br,Largo Fogaça,165,,Vila Pinho,Nascimento,MT,44346-972
+João Lucas Monteiro,189.427.650-76,1983-09-12,jcostela@rodrigues.com,Condomínio Freitas,159,,Barreiro,Porto de Rezende,MG,50428823
+Alana Oliveira,364.058.217-90,1930-11-01,eteixeira@nogueira.net,Alameda de Castro,7,,Conjunto Jatoba,Azevedo do Sul,PB,3287446
+Joana Correia,845.276.103-17,1971-02-19,fernando33@cavalcanti.br,Morro de da Rocha,3,,Mariquinhas,Aragão de Novaes,PB,67901-299
+Carlos Eduardo Oliveira,710.298.346-87,1960-08-09,almeidacatarina@gmail.com,Largo Murilo Lopes,72,,Jardinópolis,Novaes de Goiás,MA,58439-512
+Dr. João Lucas Sales,843.792.106-69,1963-07-14,oda-costa@martins.com,Rodovia Almeida,12,,Vila Piratininga,Melo Paulista,CE,53014-049
+Dra. Caroline da Luz,958.372.461-00,1996-03-31,luana88@ig.com.br,Praça de Lopes,78,,Milionario,Duarte de Barbosa,PR,45936140
+Dr. João Gabriel Nunes,602.593.784-29,2008-05-04,sarah38@monteiro.br,Feira Stephany Cardoso,76,,Santo Agostinho,Freitas da Mata,AP,24735-091
+Milena Azevedo,896.342.175-91,2007-07-29,murilofarias@nogueira.org,Lago Cardoso,16,,Califórnia,Campos,RJ,79696-590
+Rebeca Lopes,509.168.274-02,1983-05-15,ana-laura02@freitas.br,Favela Lavínia da Luz,5,,Madri,Teixeira,MT,10023-079
+Isabel Barros,813.546.709-57,1950-01-20,holiveira@yahoo.com.br,Alameda de Monteiro,55,,Unidas,Moraes de Vieira,PE,77391-253
+Miguel Barbosa,549.320.176-34,1962-11-28,peixotoalexandre@vieira.net,Residencial Nogueira,80,,Ouro Minas,Oliveira dos Dourados,SP,51232103
+Carolina Silva,861.495.027-67,1953-10-30,cavalcantitheo@hotmail.com,Residencial Nascimento,87,,São Sebastião,Ferreira,SC,91086835
+Melissa Ramos,836.720.541-35,2009-03-03,agathapinto@rezende.br,Loteamento de Porto,21,,Santana Do Cafezal,Viana de Rodrigues,RR,10687658
+Felipe da Rocha,805.219.643-42,2005-01-26,qda-cunha@yahoo.com.br,Parque de Porto,6,,Bom Jesus,da Rosa,PE,91782-380
+Rafaela Vieira,509.621.784-11,2004-05-06,das-nevespedro-miguel@ig.com.br,Favela de Azevedo,7,,Oeste,Silveira da Praia,CE,101598
+Clara Nunes,623.958.140-24,1981-03-24,pietro76@bol.com.br,Travessa Miguel Moraes,6,,Paraíso,Teixeira,ES,43583698
+Sra. Isabel Pires,831.906.742-13,1933-05-13,milenacorreia@yahoo.com.br,Feira Ribeiro,78,,Santa Amelia,da Conceição das Pedras,RS,01828-461
+Lívia Fogaça,295.186.740-94,1982-04-06,lucas04@fernandes.br,Chácara Guilherme Ferreira,9,,Monte São José,Lima Paulista,SE,32891934
+Arthur Sales,071.654.283-80,1956-06-27,walmeida@ig.com.br,Rodovia Isabella Lima,34,,Candelaria,Cardoso,AC,55921-404
+Esther Dias,081.975.642-30,1987-01-11,rodriguesgabriela@santos.org,Rodovia Monteiro,93,,Vila Aeroporto,Almeida,RS,2411338
+Raquel Castro,948.502.761-30,2008-03-13,stellanovaes@bol.com.br,Viaduto de Cavalcanti,93,,João Alfredo,Rocha,PE,77449452
+Maria Eduarda Ramos,346.817.259-19,1970-05-06,lara30@castro.br,Estrada Arthur Almeida,161,,Vila Dos Anjos,da Rosa,SP,63476501
+Dra. Carolina da Rosa,150.782.643-53,1975-04-12,zrocha@alves.com,Aeroporto Almeida,59,,Palmeiras,Cavalcanti das Flores,MA,15536356
+Sophie Pereira,871.940.325-97,1966-03-28,nporto@gmail.com,Praia Araújo,199,,Buraco Quente,Lopes Alegre,AP,69874805
+Clarice Nascimento,947.301.628-03,1935-06-28,da-conceicaobernardo@bol.com.br,Quadra de Lima,556,,Distrito Industrial Do Jatoba,Dias,CE,87871-142
+Ana Beatriz Campos,431.026.578-26,1972-03-19,rpinto@almeida.br,Campo da Mata,4,,Vila Paraíso,da Paz Alegre,PR,73287189
+Kevin Freitas,603.591.428-42,1957-09-03,laisramos@yahoo.com.br,Chácara de Monteiro,45,,Satelite,Dias,AP,16980172
+Stephany Nunes,027.694.815-76,2000-04-26,martinsmaysa@mendes.com,Campo da Mata,27,,Bom Jesus,Sales,RO,69981-868
+Rafaela Alves,395.820.147-41,1993-01-26,qoliveira@gmail.com,Parque Erick Santos,52,,São Bernardo,Teixeira do Campo,RR,72199-305
+Sr. Enzo Gabriel Novaes,390.261.457-99,1946-05-13,costanoah@bol.com.br,Núcleo Barbosa,83,,Paraíso,Vieira de Goiás,MS,57313913
+Enrico Pinto,789.310.642-50,1982-07-23,raul73@ig.com.br,Condomínio Campos,17,,Vila Pilar,Gomes,PI,3723128
+Sra. Ana Laura Vieira,145.378.629-55,1940-04-20,peixotolara@bol.com.br,Quadra Nogueira,190,,Vila Batik,Dias dos Dourados,PR,70863-559
+Nathan Rezende,927.185.406-30,1995-02-19,cardosocaue@araujo.com,Área Teixeira,88,,Vila Santo Antônio Barroquinha,da Conceição,GO,16314940
+Gabriel Ribeiro,126.785.493-64,1948-02-01,leandro84@bol.com.br,Distrito Silva,46,,Conjunto Paulo Vi,Nunes do Oeste,RJ,10373021
+Diogo Freitas,308.295.714-50,1993-05-19,brunamoreira@bol.com.br,Estação Ferreira,42,,Monsenhor Messias,Campos,PB,35115446
+Isadora da Luz,829.745.601-30,1937-12-22,silveiralarissa@ig.com.br,Praça Emanuelly Farias,38,,Nova Vista,Santos da Praia,PB,24954-599
+Lorena Fernandes,923.187.064-50,1956-05-09,cardosonoah@moraes.com,Via de Duarte,30,,São Jorge 2ª Seção,Almeida,AP,03721-077
+Thales Monteiro,082.194.573-41,1957-10-07,lorenzocampos@yahoo.com.br,Praça Moraes,24,,Canadá,Rodrigues do Amparo,RO,26430-348
+Sr. João Guilherme Lopes,450.136.278-26,1933-09-03,eda-rosa@hotmail.com,Recanto André Araújo,46,,Sport Club,Jesus,PE,43181-210
+Alana Cardoso,173.580.926-86,2002-10-09,da-cunhaevelyn@yahoo.com.br,Recanto Novaes,83,,Vila Maloca,Cunha,MT,38879716
+Dra. Maria Moreira,764.910.835-00,1957-09-03,martinsmaria-alice@araujo.com,Vila Souza,5,,Conjunto Serra Verde,Cavalcanti,PR,49557659
+Ana Clara da Luz,598.413.270-23,1947-01-27,bda-rosa@da.br,Largo Vicente Mendes,36,,Mariano De Abreu,Martins Alegre,PA,54340595
+Bárbara Moreira,021.483.975-32,2000-05-11,kmoura@araujo.com,Largo da Cunha,691,,Granja De Freitas,Costela do Galho,AL,81697444
+Srta. Ana Vitória Sales,809.246.135-05,1991-08-29,vcosta@uol.com.br,Área Paulo Barbosa,3,,Vila Da Ária,Campos de Alves,PI,39176868
+João Vitor Castro,649.723.805-00,1978-01-24,kevin99@uol.com.br,Largo Pereira,55,,Vila Trinta E Um De Março,Campos,BA,43437714
+Ana Clara Nascimento,923.760.418-13,1960-07-18,wsilveira@almeida.com,Núcleo de Monteiro,60,,Vila Da Luz,Jesus,AL,82867569
+Brenda Jesus,785.269.103-02,1965-04-07,luana75@caldeira.com,Feira Laís Costa,91,,Santo Agostinho,Mendes,SP,3932747
+Evelyn Teixeira,672.834.591-46,1986-05-13,piresmariane@yahoo.com.br,Sítio Miguel Gonçalves,429,,Vale Do Jatoba,Fogaça Paulista,SE,12427-410
+Yuri Porto,592.073.148-60,1933-08-01,orezende@ig.com.br,Lagoa das Neves,314,,Carmo,da Rocha de Cardoso,SC,65063372
+João Pedro Pinto,029.173.465-07,1995-04-24,thomascarvalho@uol.com.br,Loteamento de Nogueira,5,,Beira Linha,da Mota da Prata,DF,77304138
+Sra. Olivia Araújo,169.450.278-30,1990-04-17,dmendes@martins.com,Praia Sales,31,,Pantanal,Silveira das Pedras,RN,33212-440
+Dra. Mirella Pinto,024.736.958-65,1942-12-24,agatha38@silva.com,Praça Carvalho,377,,Laranjeiras,Pereira do Norte,RN,15412056
+Yuri Almeida,259.837.401-05,1972-04-04,pereirakevin@ramos.br,Pátio de Vieira,91,,Vila Sesc,Ferreira,TO,88902908
+Alice Gomes,983.240.615-33,1932-03-07,camposemanuelly@souza.com,Núcleo de Souza,8,,Vila Aeroporto Jaraguá,Rocha,RR,52385576
+Isis Moraes,253.716.480-62,1948-03-22,fernando43@bol.com.br,Lagoa Ana Vitória Novaes,75,,Mineirão,Souza,ES,72621211
+Ana Moraes,572.360.491-07,1944-08-24,rsales@barbosa.com,Campo de Porto,863,,Dom Bosco,Castro,SE,66945022
+Joana Costa,360.185.742-17,1955-07-19,yasminfarias@costa.net,Rodovia Samuel Pinto,7,,Nova Vista,Carvalho da Praia,MT,27901-537
+Dra. Olivia Aragão,167.948.325-00,1961-12-01,evelyngomes@uol.com.br,Ladeira Alana Gomes,3,,Milionario,Moura,RO,93856709
+Pedro Lucas Pires,204.158.736-90,1958-04-24,luiz-gustavo08@uol.com.br,Travessa de Almeida,46,,Camargos,Barros da Prata,TO,1205205
+Clarice da Luz,780.395.426-00,1994-11-13,mendescarlos-eduardo@uol.com.br,Largo de da Cunha,81,,Flavio Marques Lisboa,Vieira,GO,97723386
+Sarah da Luz,486.032.197-96,2001-03-06,pedro-miguel29@gmail.com,Estação Pietra Araújo,27,,Parque São Pedro,da Mata da Serra,SE,46534-020
+Srta. Lorena da Conceição,237.916.084-87,1983-07-03,xgomes@gmail.com,Núcleo de Moreira,6,,Inconfidência,Pires,MT,73025-330
+Matheus Ribeiro,465.280.397-47,1932-02-10,cda-conceicao@viana.com,Sítio Nascimento,50,,Mariano De Abreu,Nascimento,BA,69017563
+Dr. Thiago da Rosa,849.362.701-13,1941-08-27,eduardada-costa@da.org,Vila da Costa,78,,Mirante,Peixoto,RO,8580122
+Srta. Ana Carolina Porto,468.302.571-07,1945-01-17,barbosaalice@gmail.com,Favela de Santos,2,,Ademar Maldonado,Gomes,SP,09844-419
+Pedro Miguel Gomes,658.231.709-12,1969-06-11,almeidanicolas@cardoso.br,Vereda de Cunha,4,,Vila Ipiranga,Alves,PA,45072340
+Antônio das Neves,071.423.695-07,1944-10-04,cavalcantijuan@uol.com.br,Trevo de Oliveira,560,,Vila Cemig,da Paz do Galho,RR,12967-095
+Vitória Costela,762.058.139-12,2008-02-26,fmonteiro@ig.com.br,Ladeira Maria Fernanda da Rosa,63,,Vila Copacabana,Moreira do Galho,RO,83284446
+Evelyn Fernandes,137.980.425-60,1990-05-03,milena72@silva.br,Distrito Emilly Viana,629,,Guaratã,Mendes,AM,45522-736
+Luiza Pinto,381.756.420-17,1966-09-02,maria53@uol.com.br,Área de Porto,4,,Tupi B,Silva,AL,27749-223
+Mirella Azevedo,649.312.085-33,1967-11-03,pedroaraujo@uol.com.br,Sítio das Neves,2,,Marmiteiros,Nascimento,RR,98811-775
+Olivia Freitas,874.153.260-08,1948-04-18,sda-conceicao@yahoo.com.br,Residencial de da Cruz,63,,Vila Maria,Costela dos Dourados,DF,32585-475
+Luiz Fernando da Luz,317.860.942-31,1967-04-14,yaragao@gmail.com,Trecho Bernardo Sales,68,,Camponesa 2ª Seção,da Mota,MT,35032290
+Maysa Azevedo,563.941.827-37,1941-05-18,vieiraisabel@yahoo.com.br,Rodovia Ferreira,8,,Nova Granada,Freitas,PR,8561737
+Julia Rocha,803.756.241-71,1970-01-04,pedro-lucas45@yahoo.com.br,Campo de Campos,915,,Estrela,Costa,PR,45118876
+Vitória Lima,376.240.958-74,1979-05-24,pereiraleandro@uol.com.br,Quadra Anthony Silveira,291,,Sport Club,Rocha Alegre,ES,19126-922
+Dr. Cauã Correia,261.930.845-33,1997-03-26,emanuelcavalcanti@hotmail.com,Área Araújo,9,,Jaqueline,Araújo,AC,27443523
+Pedro Miguel Porto,639.754.281-55,1989-09-07,qpereira@yahoo.com.br,Área Souza,95,,Vila Fumec,da Rosa,PI,86498481
+Manuela Mendes,827.609.351-59,1982-06-17,fariasnoah@ig.com.br,Residencial Nina Santos,715,,Planalto,Farias de Gomes,PI,74084122
+Gabrielly Cunha,324.976.508-29,1930-02-15,barbosaisabel@lima.br,Rodovia Joaquim Sales,66,,Jardim São José,Dias dos Dourados,PA,62314157
+Joana Moreira,961.584.023-89,1995-09-13,enrico52@vieira.org,Praia de Novaes,31,,Vila São Rafael,Mendes,RJ,51870-081
+Rodrigo Pinto,390.816.527-02,1975-01-18,gustavo-henriquebarbosa@almeida.com,Lagoa Otávio Moraes,536,,Araguaia,Rodrigues dos Dourados,AL,54971259
+Yasmin da Cunha,759.632.841-55,1953-07-04,araujodaniel@uol.com.br,Estrada Ian Freitas,1,,Lagoinha Leblon,da Rocha,RJ,77491-904
+Sr. Luiz Otávio Castro,719.546.820-85,1963-04-07,amandaalves@souza.br,Esplanada Lopes,84,,Urca,da Mota,PR,85624-587
+Mirella da Cunha,785.091.264-02,1988-09-18,silveiraarthur@aragao.com,Feira de Carvalho,15,,Castanheira,Porto Alegre,AL,30493-707
+Mirella Ribeiro,048.631.957-10,1989-11-17,augusto41@pires.net,Viela Daniela Ferreira,503,,Rio Branco,Silva do Campo,MS,39109722
+Esther Santos,863.054.279-92,1967-11-08,araujoluiz-felipe@da.br,Sítio Nathan Gonçalves,59,,Vila Mangueiras,Moraes,TO,9725094
+Sophia Santos,679.853.024-92,2005-06-22,da-cunhacaio@yahoo.com.br,Feira de Ramos,78,,Conjunto Jardim Filadélfia,Fernandes Verde,AP,45727-025
+Lucca Pires,514.678.092-76,1946-03-01,cavalcantithales@santos.org,Lagoa da Luz,337,,Pindorama,Lima,AP,41948-769
+Alana Lopes,125.873.960-77,1943-06-06,inascimento@pires.org,Núcleo de Silva,933,,Carlos Prates,Oliveira de Goiás,AP,46205271
+Maitê Mendes,487.136.025-35,1943-05-12,vcardoso@yahoo.com.br,Viela de Moraes,69,,Santa Lúcia,Araújo,AP,73392755
+Bruna Vieira,689.304.527-10,1965-10-05,paraujo@peixoto.net,Trevo Alícia Lima,18,,Vila Primeiro De Maio,da Rosa de Santos,MS,65821-177
+Augusto Almeida,639.710.528-86,1937-08-02,vitoriarezende@uol.com.br,Praça de das Neves,81,,Conjunto Santa Maria,Lima,CE,32082456
+Isabel Pinto,958.401.673-39,2004-10-26,cunhaelisa@gmail.com,Via de Nogueira,952,,Conjunto Santa Maria,Almeida,MA,95738241
+Emanuel Moraes,754.209.836-56,1951-10-29,duartearthur@ig.com.br,Rua de da Mota,87,,São Tomaz,Nunes Grande,AL,21525-742
+Erick Moura,973.418.620-50,1945-11-06,joaoalves@hotmail.com,Feira Sofia Nascimento,53,,Unidas,Correia,PA,78786566
+Murilo da Costa,479.318.560-66,1996-09-25,isabellapires@gmail.com,Esplanada Caldeira,5,,Jardim São José,Aragão,ES,55350-146
+Isis Gonçalves,351.276.408-80,1941-10-04,emanuellacostela@hotmail.com,Rodovia de da Conceição,10,,Barão Homem De Melo 3ª Seção,Nunes,AC,60351-361
+Dr. Theo Novaes,941.058.362-42,1984-09-24,csilveira@hotmail.com,Vila Juliana Gomes,26,,Ipe,Rocha dos Dourados,DF,04814-264
+Maria Cecília Campos,014.698.732-22,1987-11-15,uferreira@caldeira.br,Campo de Rodrigues,16,,Vila Fumec,Melo de da Paz,CE,54497-130
+Davi Duarte,827.063.914-13,1948-08-11,rafaelacastro@costa.org,Travessa Peixoto,47,,Barroca,Duarte,PE,24505793
+Renan Martins,078.459.362-00,1961-08-29,scampos@hotmail.com,Pátio Bianca Viana,152,,Barão Homem De Melo 1ª Seção,Freitas,PI,44750-964
+Pietra Castro,381.569.407-84,1968-01-08,fernandovieira@bol.com.br,Esplanada Stephany Rocha,89,,Caetano Furquim,Fogaça,RS,35699-055
+Isabella Barbosa,024.895.716-30,1960-06-15,rodrigosilveira@araujo.com,Fazenda da Cunha,53,,Vila Engenho Nogueira,Barros de da Rosa,RS,61105808
+Marcelo Martins,926.081.475-85,2005-04-10,kevinsales@castro.com,Rodovia Ana Júlia Santos,46,,Santa Helena,Fogaça da Praia,RO,12654282
+Bryan da Cruz,176.304.598-66,1999-06-21,rodriguescatarina@bol.com.br,Vereda Calebe Nascimento,30,,Carmo,Costa,MG,94141502
+Dr. Miguel Costela,605.489.137-57,1985-08-28,bruna99@araujo.com,Via de Vieira,36,,Céu Azul,Mendes do Campo,PE,78476-635
+Lorena Ferreira,397.014.685-20,1981-05-19,theo19@silveira.org,Fazenda Cauã Cardoso,94,,Cidade Jardim,Martins,RN,88802473
+Ana Beatriz da Luz,230.594.816-60,1977-01-15,laura74@carvalho.net,Parque Davi Lucas Oliveira,3,,Mantiqueira,Monteiro,GO,13402627
+Enrico Mendes,531.867.092-02,1988-10-18,da-matagustavo-henrique@lopes.br,Jardim de Rodrigues,58,,Jatobá,Aragão das Pedras,RO,30897073
+Bernardo Pinto,579.421.638-73,1990-11-23,augusto72@azevedo.com,Distrito de Campos,56,,Pongelupe,da Luz,MS,10096-932
+Otávio Pereira,348.016.957-01,1968-12-24,isabelly52@silveira.br,Vale Igor da Luz,93,,Cônego Pinheiro 2ª Seção,Correia,BA,38017266
+Sra. Maria Clara das Neves,540.127.963-99,1964-02-11,cauearaujo@viana.br,Praia Gabrielly Souza,57,,Buritis,Carvalho,SP,73024193
+João Guilherme Duarte,409.175.682-49,1975-11-06,vitor-hugomoreira@yahoo.com.br,Recanto Rezende,2,,Miramar,da Paz Verde,PR,19310074
+Isabelly Barros,260.985.714-49,1973-05-21,catarina71@da.org,Feira da Luz,314,,Baleia,da Rosa Alegre,PB,36916-892
+Nathan Ribeiro,326.510.974-70,1937-03-13,luiz-miguel13@mendes.br,Fazenda Alexia da Mata,31,,Casa Branca,Rocha da Mata,RO,41028468
+Yago Moreira,174.862.903-40,1941-10-16,isadora67@novaes.br,Chácara Nunes,37,,Pirineus,Mendes,AP,88613304
+Ana Laura Azevedo,938.014.265-05,1984-01-09,fariasjuan@pereira.com,Avenida de Nascimento,40,,Camponesa 1ª Seção,Aragão,RO,38746-911
+Joana Santos,254.903.876-29,1947-11-25,yazevedo@hotmail.com,Lagoa de Fogaça,41,,Aarão Reis,Pires de Costela,PI,54850-480
+Yuri Barros,436.189.572-46,1964-12-24,nogueiramaysa@aragao.com,Sítio de Pinto,6,,Guaratã,Campos,PA,4999262
+Clara Araújo,493.782.051-60,2009-02-18,yasmin99@yahoo.com.br,Alameda de Duarte,872,,Alto Caiçaras,Moura Verde,AC,91256-068
+Maria Vitória Almeida,325.148.970-41,1981-08-19,da-pazclarice@souza.com,Rodovia de da Rosa,95,,Minas Brasil,Ferreira,AC,53113-979
+Laís da Mota,035.871.462-17,1956-01-23,bazevedo@da.com,Condomínio Azevedo,63,,Buraco Quente,da Mota da Mata,RR,45755-390
+Dr. Juan da Rocha,590.214.376-43,2003-08-23,emanuel86@gmail.com,Passarela Melo,87,,Pedreira Padro Lopes,das Neves,PE,61961328
+Juan da Mata,638.527.491-82,1983-08-18,larafreitas@yahoo.com.br,Estrada Maria Sophia Barbosa,4,,Xodo-Marize,Cavalcanti,SE,50559398
+Levi Gonçalves,873.615.409-10,1982-01-31,lda-costa@goncalves.com,Fazenda Lopes,3,,Buritis,Moreira Alegre,GO,9493215
+Ana Beatriz Ferreira,784.653.902-74,1980-07-07,lunanascimento@costa.com,Praça Sales,736,,Inconfidência,Almeida do Campo,RS,51234774
+Marcos Vinicius Jesus,769.435.128-46,1941-08-13,diassophia@rocha.org,Colônia de da Cruz,21,,Vila Madre Gertrudes 4ª Seção,Fogaça,MG,79074734
+Júlia Duarte,970.826.451-20,2004-03-29,ncaldeira@souza.com,Jardim Lopes,5,,Bonsucesso,Carvalho,PR,97876-005
+Ian Azevedo,126.907.853-40,2006-09-22,rezendemiguel@bol.com.br,Residencial de Moura,54,,Flavio De Oliveira,Araújo,ES,11340613
+Lucas Gabriel da Mata,930.246.571-34,1969-12-09,nogueirabrenda@da.com,Largo de Lima,89,,Leticia,Monteiro de Moraes,RR,97428039
+Dr. Cauã Gomes,173.568.249-73,1941-02-13,caroline38@bol.com.br,Recanto Pietra Ribeiro,446,,Leonina,Ribeiro de Goiás,RN,23898-888
+Eduarda Rocha,705.439.128-41,1953-06-02,peixotoana-carolina@bol.com.br,Praça Sales,21,,Ermelinda,Barbosa do Campo,PI,31533338
+Dr. João Gabriel Castro,475.138.962-91,1968-12-21,heloisacardoso@das.com,Loteamento de Duarte,6,,Marieta 1ª Seção,Gonçalves,BA,5901403
+Yago da Rocha,931.670.854-01,1939-12-24,castroaugusto@gmail.com,Parque Arthur Melo,87,,Distrito Industrial Do Jatoba,Araújo,PA,29163172
+Mariana Vieira,603.819.754-01,1962-07-03,otavio61@hotmail.com,Residencial João Pedro Barbosa,77,,Conjunto Califórnia I,Castro,AM,72695743
+Thomas da Conceição,047.591.862-20,1932-10-21,zramos@uol.com.br,Campo Barros,60,,Vila Olhos D'água,Lima Verde,MG,82682470
+Luiz Miguel Campos,506.942.173-52,1979-07-04,camposluiz-otavio@yahoo.com.br,Condomínio Ana Luiza Sales,7,,Comiteco,Novaes de Goiás,AC,42341-695
+Mariana Vieira,618.732.549-46,1966-02-23,heloisacavalcanti@castro.net,Feira Vieira,6,,Delta,Lima da Mata,RO,72949435
+Marcela Castro,280.976.341-04,1933-11-12,tvieira@hotmail.com,Distrito da Luz,46,,Serra Verde,da Mata,RJ,19215771
+Melissa Costa,342.586.179-46,1944-08-22,agatha23@yahoo.com.br,Morro de Carvalho,732,,Vila Satélite,Almeida,MT,3552995
+Alice Costa,971.540.862-11,1951-10-29,rebeca44@ig.com.br,Jardim Helena Moreira,26,,Dom Joaquim,Porto,PE,99241195
+Julia da Conceição,127.893.056-68,1940-03-11,sofiamoura@gmail.com,Praia Maitê Melo,341,,São Jorge 2ª Seção,Silveira Alegre,CE,56689399
+Thomas Barros,263.097.514-25,1932-06-08,enzo17@caldeira.net,Jardim Duarte,12,,Floresta,Correia,SE,31019-053
+Ana Clara Dias,817.250.694-58,1938-05-31,cvieira@yahoo.com.br,Vila de Santos,643,,Vila Santa Monica 2ª Seção,da Cruz,AM,55064-005
+Elisa Souza,267.945.813-37,1952-10-14,da-motanicole@ferreira.org,Morro de da Costa,5,,Outro,Nunes,RR,63801295
+Nicolas Fernandes,062.987.135-30,1968-10-21,luigi54@ramos.com,Sítio Pietra Sales,355,,Apolonia,Araújo de Carvalho,MG,91303262
+Maysa Gonçalves,874.253.019-97,1950-05-31,teixeiraana-laura@ig.com.br,Rua de da Costa,79,,Alpes,Santos,MG,63078-979
+Sr. Bryan Porto,019.643.827-69,1995-08-03,carvalhoeduarda@ig.com.br,Aeroporto Joana Correia,5,,Pousada Santo Antonio,Nascimento,SP,20473400
+Alícia Farias,196.283.574-09,1969-11-21,helena32@fogaca.br,Vale da Cruz,465,,Califórnia,Fernandes,RR,67790026
+Thomas Costa,160.798.235-86,1968-04-05,pedro-lucassantos@uol.com.br,Largo Castro,161,,Xodo-Marize,Alves,MG,94102-418
+Maria Clara Pereira,165.094.238-98,1947-03-14,ucunha@lima.com,Favela de Gonçalves,66,,Novo Aarão Reis,Ramos do Sul,CE,41137404
+Laura Castro,509.637.142-52,1958-11-15,earaujo@hotmail.com,Vereda Emanuella Cardoso,3,,Aguas Claras,Moura,MS,27603-336
+Joana da Rosa,765.948.130-48,1995-03-03,kcavalcanti@hotmail.com,Condomínio Gabriela Pereira,85,,Estoril,Pires,PE,3640652
+Heitor Moreira,539.406.728-74,2008-10-10,luiz-gustavo05@hotmail.com,Rua Enzo Lima,32,,Santa Rita,Farias,BA,57182042
+Sophie Freitas,357.461.209-52,1964-12-16,leonardo43@barbosa.com,Jardim de Cardoso,63,,Pindura Saia,Silva de Minas,RN,68974185
+Maria Alice Nunes,871.469.032-22,1992-08-06,murilooliveira@lopes.com,Parque Mirella da Mata,4,,Flavio Marques Lisboa,Campos,MT,31540-519
+Gabriel Vieira,319.860.427-31,1947-10-19,luiz-felipe32@yahoo.com.br,Vila Maria Luiza da Mata,11,,Boa Esperança,Lopes da Prata,RN,73023740
+Luiz Gustavo da Luz,741.629.058-94,1930-06-11,davi-luiz45@da.br,Alameda Pereira,17,,Dom Silverio,Santos do Campo,RS,55033067
+Matheus da Mota,230.487.619-69,1977-04-15,oliveirabeatriz@pereira.com,Aeroporto de Nunes,77,,Vila Jardim Alvorada,Moraes,MT,63759-220
+Valentina Caldeira,845.610.327-62,1970-07-01,fernandada-mota@oliveira.com,Pátio Cavalcanti,11,,Vista Alegre,Barros,BA,35338249
+Amanda Teixeira,203.716.945-07,1978-06-01,da-conceicaoesther@bol.com.br,Estrada Martins,69,,Vila Cloris,da Conceição,PA,27853837
+Emanuel Oliveira,780.316.459-57,1957-06-11,gabrielly98@freitas.br,Largo de Dias,6,,Vila Formosa,da Costa do Sul,PR,02819-001
+Sra. Gabriela da Conceição,436.951.702-80,1957-11-04,enrico11@yahoo.com.br,Jardim João Lucas Mendes,7,,Havaí,da Mata da Praia,AP,52598-185
+Danilo Oliveira,630.971.524-07,2000-12-31,ana-luizacunha@yahoo.com.br,Favela Ferreira,74,,Belmonte,Mendes do Campo,PR,31029-637
+Diogo Jesus,247.391.806-69,1945-07-09,pcarvalho@bol.com.br,Morro Rebeca Melo,67,,Mirtes,Gomes Verde,PA,97082784
+Sr. Cauê Nunes,245.781.309-32,1970-07-30,aalmeida@pereira.com,Fazenda de Lima,94,,Túnel De Ibirité,Moreira,AM,15370133
+Letícia Gomes,760.251.938-86,1988-06-04,cauepeixoto@ig.com.br,Avenida de Almeida,87,,Comiteco,Oliveira,RO,86462265
+Juan Azevedo,725.309.618-59,1955-12-15,afernandes@bol.com.br,Colônia de Almeida,6,,Vila Pinho,da Rosa,AP,54146-321
+Davi Cardoso,513.290.647-80,2005-11-12,claricemoura@santos.net,Lagoa Pedro Henrique Castro,9,,Luxemburgo,Cavalcanti do Galho,MG,58598-679
+Ian da Rocha,257.498.103-05,2001-12-18,joaquim20@yahoo.com.br,Sítio Luana da Cunha,456,,Vila Oeste,Melo,CE,53146255
+Isabel das Neves,619.257.048-58,1976-02-06,barbara37@ig.com.br,Esplanada de da Mata,580,,Álvaro Camargos,Costa da Mata,SE,46415254
+Luiz Fernando da Costa,052.963.487-29,1984-12-23,ncardoso@gmail.com,Viaduto da Paz,46,,Parque São José,Pires do Galho,PE,61146033
+Dr. Nathan da Conceição,108.457.392-04,1969-02-12,evelyn31@bol.com.br,Travessa Thomas Teixeira,21,,Baleia,Moura,AC,89134871
+Laís Novaes,460.591.287-85,1981-09-17,laisribeiro@gmail.com,Jardim Alícia Moura,699,,Marieta 1ª Seção,Castro,PR,4761868
+Stella Mendes,938.607.521-03,1973-11-07,ada-rocha@yahoo.com.br,Viaduto de da Luz,288,,Acaba Mundo,Dias da Serra,ES,22952-403
+Enzo Gabriel Araújo,317.925.064-06,1982-06-08,dpeixoto@uol.com.br,Estação de Teixeira,23,,Vila Cemig,Costa,TO,9627402
+Lucca Ramos,963.125.874-28,1980-04-05,gcostela@gmail.com,Largo da Cunha,6,,Vila São Dimas,Carvalho,AM,31351569
+Dr. Nicolas Peixoto,820.719.536-30,1947-12-18,da-costacalebe@costela.net,Viela Caroline da Rocha,2,,Lagoinha Leblon,Moreira,CE,8553327
+Stella da Rocha,861.370.945-10,1948-10-04,qnunes@oliveira.com,Vale Maria Luiza Cunha,865,,Serra,Rodrigues de Silveira,RO,95229-352
+Erick Fernandes,971.824.536-73,1982-08-11,ymoura@goncalves.br,Passarela Costela,9,,Vila Nova,Rodrigues de Melo,BA,60452-918
+Julia Carvalho,491.230.576-61,1931-01-23,ksouza@gmail.com,Favela de Freitas,35,,Estoril,Rocha de Nascimento,MT,35070-884
+Lucas Melo,162.734.098-03,1957-07-11,vitor-gabriel62@moreira.br,Praia de Cunha,31,,São Marcos,da Cruz Grande,CE,37085255
+Camila Fogaça,201.536.478-17,1955-01-06,asouza@moraes.com,Via de Peixoto,6,,Silveira,Azevedo de Silveira,TO,8782617
+Yago Souza,247.609.531-16,1956-03-24,arthurlopes@teixeira.com,Vereda Vieira,523,,Ribeiro De Abreu,das Neves,PA,09353-414
+Laura Ribeiro,738.914.605-20,2001-10-19,costelavitoria@pinto.com,Vale de Caldeira,5,,Coração Eucarístico,Mendes,PR,94830-364
+Dr. Augusto Araújo,208.956.173-40,1991-11-24,ribeirojoao-gabriel@da.br,Núcleo Araújo,42,,Carmo,Fogaça,PR,43437100
+Lucas Lopes,493.280.671-03,2004-11-20,zfarias@bol.com.br,Vila Cunha,31,,Monte São José,Barbosa,GO,61373-777
+Elisa da Luz,247.951.683-00,1977-05-22,rodriguesmariana@sales.br,Favela de Teixeira,70,,Vila Califórnia,Teixeira do Norte,MG,71300118
+Thomas Ferreira,125.096.473-34,1939-10-25,pietrada-mota@ig.com.br,Recanto Campos,72,,Nossa Senhora Aparecida,Aragão do Sul,AC,42642-352
+Sr. Noah Campos,245.718.963-28,1996-08-17,lucca25@ig.com.br,Recanto Silveira,1,,Independência,da Conceição,SE,44345-749
+Emanuel Freitas,390.546.178-10,2000-08-30,qlopes@bol.com.br,Viela Maria Clara Teixeira,553,,Liberdade,da Mata de Castro,RS,61640951
+Lavínia Cardoso,947.128.635-28,1992-07-15,lorena89@gmail.com,Vale de Moura,7,,Santa Helena,da Paz,DF,8906458
+Sr. Pedro Mendes,289.047.631-69,1976-09-30,icardoso@azevedo.org,Distrito Theo Pinto,2,,Alpes,Monteiro do Sul,DF,93763642
+Srta. Luana da Paz,863.072.541-90,1971-11-07,ana-beatriz47@fernandes.org,Passarela de da Cruz,8,,Vitoria Da Conquista,Moreira do Campo,PB,90212-392
+Ana Beatriz Moraes,178.356.029-03,2009-06-15,idias@pires.net,Lago Campos,10,,Conjunto Floramar,das Neves de Farias,MS,72462-219
+Augusto Moura,319.745.820-60,1982-02-24,jpereira@ferreira.com,Núcleo Costa,56,,Vila Nova Cachoeirinha 2ª Seção,da Rosa,PB,89105198
+Lorenzo Cardoso,045.162.798-94,1978-12-18,wmendes@araujo.net,Chácara Cavalcanti,42,,Vila De Sá,Cardoso,AP,89514-610
+Natália da Cruz,203.184.659-06,1987-11-28,souzamaria-sophia@aragao.com,Fazenda João Monteiro,21,,Canadá,Cavalcanti das Flores,RO,82709-821
+Vitor Gabriel Moraes,084.769.351-10,1999-06-24,luanaramos@hotmail.com,Setor de Sales,69,,Vila Nova Gameleira 1ª Seção,Oliveira da Mata,RO,58676676
+Gabrielly Melo,426.850.137-17,1967-12-06,crodrigues@bol.com.br,Rua de Porto,91,,Beira Linha,da Rocha de Araújo,RO,25287789
+Alexandre das Neves,180.743.295-50,1979-08-16,lorenzomoraes@jesus.net,Residencial Renan Ramos,708,,Tres Marias,Silveira,PI,29439285
+Isis Rezende,510.837.624-35,1993-04-13,maiteda-conceicao@uol.com.br,Praça de Alves,69,,Vila Maria,Araújo,CE,29415-207
+Sra. Larissa da Costa,563.189.402-51,1975-05-20,vrezende@barros.br,Núcleo Pereira,70,,Vila Oeste,Gonçalves das Pedras,MG,490356
+Diogo Gomes,809.642.157-30,1975-07-12,heloisa26@gmail.com,Loteamento Letícia Correia,53,,Baleia,Aragão de Minas,ES,90508588
+Daniela da Cunha,985.214.736-64,1988-03-20,teixeirabrenda@hotmail.com,Ladeira de Correia,6,,Minas Brasil,Rocha,PA,85178222
+Maysa Rezende,976.328.501-12,1995-05-30,moraesyuri@correia.com,Rodovia Marina Ferreira,2,,Santa Rita De Cássia,da Paz de Alves,MA,20714852
+Luiz Miguel da Cunha,801.693.527-30,1970-09-01,rmonteiro@uol.com.br,Pátio Joana Almeida,37,,Vila Havaí,Cardoso,PB,86625205
+Rebeca Cardoso,687.501.432-71,2002-05-18,hnovaes@porto.com,Núcleo de Cardoso,7,,João Paulo Ii,Barros Alegre,MG,47253896
+Guilherme da Cunha,749.802.156-02,1991-03-18,luizada-paz@souza.br,Trecho Barros,7,,Milionario,Silveira do Sul,PE,1111494
+Dra. Raquel Cardoso,216.849.350-24,1977-03-19,beatriz89@da.org,Passarela de Freitas,60,,Parque São Pedro,da Conceição,SC,35531-651
+Davi Lucas Sales,673.425.980-38,2001-02-03,oda-rosa@hotmail.com,Pátio Lara Araújo,79,,Conjunto Floramar,Moura,PR,19094611
+Guilherme Cardoso,751.980.236-12,1969-03-06,vitoriacorreia@fogaca.com,Viela de Almeida,51,,Marieta 3ª Seção,Campos de Castro,AC,54510-497
+Pedro Miguel Cardoso,231.467.598-37,1931-09-27,noahda-rosa@campos.br,Trevo de Teixeira,57,,Alta Tensão 1ª Seção,Lopes do Oeste,RN,72943312
+Maria Sophia Almeida,235.968.470-10,1954-03-13,ecavalcanti@moreira.com,Setor de Dias,752,,Flamengo,Cardoso das Flores,GO,3277393
+Sr. João Felipe Ribeiro,394.027.658-83,1962-03-19,nnogueira@bol.com.br,Distrito Theo Moraes,97,,Novo Aarão Reis,Ribeiro,MA,23491573
+Joaquim Gonçalves,974.513.802-97,1946-01-20,diegolima@almeida.com,Pátio de Fernandes,73,,Castanheira,Aragão do Amparo,AL,19980898
+Bianca Barbosa,470.182.359-79,1999-07-18,freitasmarcos-vinicius@pinto.br,Esplanada Camila Caldeira,89,,Vila São Gabriel Jacui,da Conceição,CE,63345-547
+Sr. Davi Luiz Mendes,617.238.459-73,2006-02-28,bsales@novaes.com,Favela Enrico Teixeira,8,,Antonio Ribeiro De Abreu 1ª Seção,Almeida de Souza,TO,64841-858
+Joaquim Pires,453.198.072-79,1963-08-11,freitasraquel@yahoo.com.br,Lagoa Joana Martins,23,,Camponesa 1ª Seção,Duarte Verde,MA,82044582
+Sr. Benjamin Teixeira,290.531.764-70,2008-09-29,lunasilveira@hotmail.com,Estrada Pinto,1,,Marilandia,Freitas,PI,80667-719
+Sr. Juan Campos,758.239.460-74,1969-09-25,oliveiravicente@castro.com,Lago de Melo,93,,Salgado Filho,Farias da Prata,SP,97085380
+Francisco Peixoto,612.570.894-20,1956-01-07,daniel97@da.br,Área Carlos Eduardo Farias,535,,Conjunto São Francisco De Assis,Araújo da Praia,RO,76188856
+Davi Lucca Barbosa,170.394.265-52,1965-02-12,silvavitor@yahoo.com.br,Alameda de Oliveira,1,,Juliana,Fogaça,AL,64873044
+Yuri Freitas,389.571.026-12,2007-09-17,davi-lucca27@hotmail.com,Lago de Jesus,1,,Ápia,Sales das Flores,BA,22638-329
+Enrico Nunes,287.345.961-19,1946-02-24,da-costanoah@yahoo.com.br,Setor de Ferreira,173,,Nova Gameleira,Costela de Minas,PE,51430-823
+Thomas da Rosa,863.719.042-13,1949-01-17,giovannajesus@yahoo.com.br,Chácara Nunes,39,,Conjunto São Francisco De Assis,da Cruz,PB,67184-975
+Calebe Sales,610.492.753-06,1999-05-09,giovannafogaca@gmail.com,Trevo Mariana Gonçalves,32,,Engenho Nogueira,Cardoso do Campo,BA,410058
+Sophia Pinto,084.936.152-42,2008-03-25,maria-fernanda27@da.com,Estação Pedro Miguel Teixeira,79,,Aparecida 7ª Seção,Carvalho,PI,78388236
+Marcelo Melo,548.306.297-38,1934-10-31,salesluiz-miguel@ig.com.br,Pátio Gabrielly Nogueira,24,,Vila Do Pombal,Alves,MT,21488372
+Maria Fernanda da Cunha,832.765.910-30,1985-05-22,yago42@hotmail.com,Rodovia de Gonçalves,456,,Dom Silverio,Porto de Minas,RN,44489100
+Emilly Alves,158.936.270-59,1936-01-06,caua67@gmail.com,Vila de Melo,35,,Tiradentes,Azevedo do Amparo,SP,19877-532
+Dr. Enzo Cunha,542.078.913-23,2006-01-06,claricecaldeira@barbosa.br,Quadra Correia,99,,Santa Rita De Cássia,da Paz,MT,27756266
+Maria Alice Souza,604.219.857-20,1989-02-05,leonardo23@uol.com.br,Avenida Caldeira,24,,Belmonte,Barbosa,AP,36358124
+Pietro da Cruz,970.681.245-85,1951-01-09,erickda-luz@hotmail.com,Passarela de da Paz,70,,Jardim Dos Comerciarios,Oliveira do Galho,MG,32221274
+Guilherme da Mata,437.985.612-73,1940-08-18,miguel41@ig.com.br,Parque Nascimento,31,,Tiradentes,Carvalho de Campos,MT,45878284
+Alexia das Neves,354.182.706-80,2003-07-14,da-cunhacalebe@azevedo.org,Lagoa de da Luz,1,,Rio Branco,Fernandes da Praia,GO,77047764
+Kevin Porto,541.630.927-06,1972-12-25,teixeiracaua@bol.com.br,Condomínio de Alves,93,,Leonina,Moreira,AM,66168-416
+João Guilherme Lima,784.201.693-31,1962-10-22,yurimendes@ig.com.br,Avenida de Pinto,511,,Engenho Nogueira,Porto,DF,97570816
+Maria Julia Souza,832.417.965-82,2001-05-20,thomasbarbosa@silva.org,Distrito Araújo,5,,Indaiá,da Rocha dos Dourados,SC,43186-001
+Eduarda Freitas,428.153.907-79,2004-05-24,pirescaio@hotmail.com,Ladeira Eduarda Costela,34,,Jatobá,da Rocha,MA,40712572
+Pietro Correia,138.976.520-21,2001-12-08,anamendes@da.br,Vila Alice Aragão,47,,Vila Nova Paraíso,Peixoto de Pinto,PE,93255-981
+Sr. Danilo Fernandes,693.405.821-60,1941-10-19,thalesalmeida@uol.com.br,Distrito de da Mota,746,,Caiçara - Adelaide,Melo,RN,94506329
+Ian da Luz,786.143.290-40,1943-10-03,samuelpires@yahoo.com.br,Praia de da Mata,946,,Vila Mantiqueira,Monteiro do Sul,RR,4078055
+Nicole Moreira,948.715.603-84,1961-08-01,da-rosasarah@da.com,Campo Vitor Hugo Viana,223,,Nova Cachoeirinha,da Conceição,AL,7006927
+Olivia da Rocha,651.234.978-46,1946-01-14,alvesnoah@cunha.br,Lago Emanuel da Luz,142,,Vila Madre Gertrudes 1ª Seção,Castro,AC,43463-199
+Bruno Mendes,249.867.350-47,1977-03-13,maria-fernandacavalcanti@uol.com.br,Área de Nogueira,30,,Vila Paquetá,Martins da Serra,AC,96092-630
+Sr. Yago Ramos,520.167.839-40,1965-05-06,cavalcantipedro-lucas@duarte.br,Trevo Bryan Aragão,383,,Dom Bosco,Pereira,SE,75866-067
+Sr. Lorenzo Rocha,815.072.649-76,1935-08-24,costaana@correia.br,Passarela Pereira,87,,Jardim Dos Comerciarios,Pires,SP,66026866
+Elisa Ramos,645.871.203-08,1979-04-05,melojoao-lucas@barbosa.br,Estação Evelyn Gomes,48,,Gutierrez,da Luz do Campo,SE,63459400
+Alexia Carvalho,940.368.172-13,1934-11-12,rebeca43@lima.org,Avenida Costa,83,,Bom Jesus,Cunha,MT,78702-260
+Stella da Luz,756.209.841-76,1977-07-19,gabriellyaraujo@peixoto.br,Pátio Fogaça,32,,Nova Esperança,Novaes Verde,PA,28263-242
+Lara Novaes,548.192.706-30,1996-12-20,agatha08@rodrigues.br,Travessa Costa,6,,Leonina,das Neves Alegre,RR,81636-303
+Maria Costela,541.680.732-62,1933-12-14,carvalholeandro@hotmail.com,Chácara de Monteiro,75,,Caetano Furquim,Rocha,ES,99818316
+Augusto Campos,672.540.319-07,1947-02-16,alicia06@aragao.br,Praça de Alves,3,,Vila Paquetá,Pinto,PA,02810-576
+Davi Fogaça,698.125.047-02,2008-10-24,duartecaio@bol.com.br,Sítio de Nogueira,96,,Tupi A,Pires de Caldeira,BA,00896-066
+Dr. Luiz Gustavo Melo,439.761.085-10,1971-08-12,ecampos@dias.br,Rua Agatha Cunha,36,,Xangri-Lá,Gomes,PE,72624460
+Dr. Luigi Pereira,465.830.172-53,1980-05-31,catarinabarbosa@azevedo.net,Alameda Julia Souza,105,,Vila Minaslandia,Farias,DF,60554000
+Pedro Lucas Barbosa,940.351.682-89,1983-01-17,xda-rocha@da.br,Via de Barros,2,,Vila Oeste,das Neves,SC,86638976
+Vitória da Rosa,159.328.467-55,1949-07-27,fariascaua@fogaca.com,Feira de Rezende,4,,Vitoria Da Conquista,da Mota das Pedras,PA,8088345
+Emanuella Oliveira,204.187.359-05,2002-06-19,camila03@yahoo.com.br,Avenida Moraes,179,,Conjunto Novo Dom Bosco,Vieira da Praia,MA,37290753
+Caio Caldeira,142.908.756-02,2001-06-09,juan35@gmail.com,Área de Rezende,12,,Dona Clara,da Rocha,SP,66953-351
+Mariane Santos,845.023.917-60,2003-01-01,ana39@fogaca.net,Rodovia de Gomes,99,,Nova Suíça,Porto,MS,78199883
+Ian Azevedo,519.684.072-94,1941-05-15,isabelladas-neves@uol.com.br,Rodovia de Fernandes,6,,Vila Jardim Alvorada,Nascimento de Goiás,SC,10013486
+Ana Pires,157.468.923-19,2009-10-09,esther58@porto.com,Área Lopes,6,,Chácara Leonina,Barros Paulista,AC,5629046
+Emanuel da Conceição,590.467.183-01,1974-09-20,ofernandes@bol.com.br,Praia da Mota,4,,Vila Antena,da Paz de Santos,RR,06496-837
+Luana Moreira,047.659.123-61,1936-11-15,murilosilva@da.br,Trevo de Castro,7,,Vila Puc,Melo dos Dourados,MS,13149358
+Bernardo da Conceição,108.736.954-10,1985-06-16,freitasvitor-hugo@moreira.br,Lagoa Mendes,39,,Braúnas,da Cunha do Norte,ES,27714220
+Raul Nascimento,129.645.307-34,1965-08-17,gdias@bol.com.br,Rua Isaac Ramos,70,,Itatiaia,Almeida das Flores,AC,4743727
+Sra. Isabelly Fernandes,405.981.673-66,1944-05-15,fernando03@rezende.com,Aeroporto Juan Alves,54,,Concórdia,Campos da Mata,MT,09298-168
+Yago Freitas,673.805.429-74,1992-12-08,clarabarbosa@mendes.com,Pátio de Martins,89,,Inconfidência,Jesus do Sul,SP,56865-824
+Fernando Correia,849.506.312-33,1959-07-02,giovanna26@monteiro.com,Feira Viana,11,,Belmonte,Monteiro,PR,20927-495
+Dra. Melissa Campos,684.371.920-13,1988-11-16,peixotohelena@da.com,Favela Otávio Azevedo,9,,Barroca,Barbosa de Barbosa,SC,69675723
+Gabriel Nascimento,532.179.046-99,1988-04-15,ana-liviadias@gmail.com,Vale Clara Ferreira,183,,Milionario,Viana,PA,61357853
+Stephany da Luz,570.428.396-92,1936-12-02,ninaviana@bol.com.br,Vila de Nogueira,948,,Santo Antônio,Pereira dos Dourados,MT,62414032
+Leandro Fernandes,518.207.463-80,1931-02-04,da-matamarcos-vinicius@yahoo.com.br,Pátio de Souza,13,,Vila Suzana Primeira Seção,Pires de Minas,PR,84182-822
+Dr. Thiago Correia,491.830.527-04,2008-05-07,jrezende@pires.br,Colônia Gabriel Azevedo,76,,São João,da Rocha,SP,73323560
+Maria Gomes,301.685.479-10,1993-08-04,ana-julia48@campos.com,Viela Freitas,59,,Novo Glória,Azevedo de Monteiro,PI,90536298
+Rodrigo Pereira,270.384.169-87,1971-12-05,rafaeladias@da.br,Condomínio Cardoso,31,,Ouro Preto,Pinto do Sul,RS,25778070
+Sr. Antônio Duarte,687.293.501-40,1995-12-09,nlima@bol.com.br,Feira Dias,92,,Conjunto Serra Verde,Castro das Flores,PE,8483212
+Henrique Moura,867.420.153-90,1953-04-16,qalmeida@oliveira.org,Colônia Almeida,7,,Conjunto Minas Caixa,Nascimento de Cunha,MS,36040060
+Bianca Fernandes,132.059.746-70,1987-08-14,castrorodrigo@aragao.com,Residencial de Nunes,630,,Vila Cloris,Lopes da Serra,CE,45179473
+Amanda Azevedo,670.138.592-30,1992-07-13,piresluiz-gustavo@uol.com.br,Residencial Barbosa,94,,Vila São Geraldo,Barros,MA,79594188
+Pietro Cavalcanti,721.563.084-62,2006-11-13,kda-mota@ig.com.br,Vereda das Neves,21,,Vila Betânia,Fogaça Alegre,PI,29384-107
+Melissa Campos,073.849.651-01,1959-06-22,rochaluiz-otavio@gmail.com,Travessa Pedro Henrique Azevedo,4,,São Sebastião,Novaes da Praia,SE,97651370
+Dra. Maria Clara da Conceição,786.234.159-73,1968-09-01,bruna00@freitas.br,Campo de da Rocha,94,,Graça,Cardoso,GO,69010840
+Gustavo Henrique Dias,457.296.018-67,1948-06-09,luiz-felipeporto@yahoo.com.br,Lago Cardoso,13,,Vila Suzana Primeira Seção,Araújo,PB,76970-854
+Fernando Teixeira,472.830.659-38,1984-07-26,mendesyasmin@hotmail.com,Rodovia de Almeida,1,,Aguas Claras,Souza Grande,AL,81130861
+Luigi Pereira,709.186.352-68,1960-05-23,rebeca87@goncalves.br,Ladeira Juliana da Cruz,95,,Vila Nova,Cardoso,RN,66684-308
+Júlia Martins,194.587.036-20,1946-10-06,moraesbrenda@yahoo.com.br,Trecho de da Paz,545,,Vitoria Da Conquista,Ferreira,TO,70465-150
+Emanuella Lima,807.435.619-10,1985-08-25,xmoura@moraes.com,Chácara Viana,33,,Jaqueline,da Rosa,BA,54011-658
+Maitê Rocha,953.146.872-91,2001-01-01,heitor88@peixoto.com,Favela de Duarte,7,,Tupi A,Caldeira,AC,46743548
+Melissa Caldeira,396.520.817-95,1932-05-07,glopes@da.com,Fazenda Luiz Gustavo Barbosa,488,,Aarão Reis,Rodrigues,RS,60538441
+Bruno Castro,761.834.905-39,2009-03-09,pietrooliveira@cardoso.com,Chácara Evelyn das Neves,9,,Juliana,Pereira,CE,40729448
+Sra. Lavínia Cavalcanti,846.317.950-93,1998-05-05,marcelonascimento@silveira.com,Vereda de da Rocha,947,,Tupi A,Nunes,AP,94465-625
+Luiz Henrique da Rosa,372.916.054-07,1992-06-16,camposigor@yahoo.com.br,Campo de Melo,11,,Universo,Rezende do Campo,AL,34762853
+Maria Sophia Farias,503.768.492-74,2006-06-19,leandro10@yahoo.com.br,Jardim Elisa da Mota,23,,Ouro Minas,Nogueira,AP,94499-777
+Maria Fernanda Rodrigues,217.905.846-20,1985-02-22,leandrodias@freitas.net,Lago Bianca da Rocha,174,,Vila Madre Gertrudes 2ª Seção,Almeida do Sul,SP,52181088
+Sr. Luiz Gustavo Nogueira,596.831.204-15,1950-01-20,vpires@peixoto.com,Lagoa Aragão,782,,Garças,Rodrigues do Galho,SC,24766755
+Bruna Nunes,512.846.793-73,1984-08-09,luiz-felipepinto@da.net,Parque Gustavo Henrique Novaes,6,,Vila Paraíso,da Paz,MA,11287-771
+Brenda Cunha,729.403.815-50,1963-03-15,camilada-conceicao@farias.br,Colônia Porto,3,,Mirtes,Pires,PE,39438045
+Carolina Peixoto,051.396.742-70,1953-09-12,benjamin22@hotmail.com,Quadra Marcelo Araújo,77,,Vila Trinta E Um De Março,da Rocha,MT,86952-721
+Vinicius Jesus,395.427.106-07,1930-10-14,bfreitas@bol.com.br,Esplanada de Vieira,87,,Cônego Pinheiro 2ª Seção,da Cunha,AM,16756-522
+Felipe Araújo,175.324.089-14,1971-04-11,da-matabernardo@da.br,Vila de Araújo,105,,Novo Ouro Preto,Moraes,BA,45210-503
+Dra. Helena da Luz,581.934.706-48,2002-04-09,joao-guilherme57@da.org,Avenida Alves,79,,Carlos Prates,Porto,AM,6950487
+Juliana Barbosa,391.806.425-51,1976-10-12,brenolopes@ig.com.br,Praça Carvalho,84,,Dom Cabral,da Mota Grande,AP,96184-515
+Isis Campos,270.541.963-25,1940-04-26,wfarias@cunha.org,Área de Novaes,627,,Pedreira Padro Lopes,Alves da Prata,SE,64507436
+Yago Duarte,425.680.379-38,1952-10-31,ssouza@souza.br,Largo de Porto,40,,Vila Califórnia,Silva,PI,45289474
